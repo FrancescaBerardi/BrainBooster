@@ -1,4 +1,3 @@
-import { icons } from "react-icons/lib";
 import { MyCard } from "./MyCard"
 
 const ImageCarousel = () => {

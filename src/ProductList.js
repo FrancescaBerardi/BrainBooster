@@ -5,7 +5,6 @@ const ProductList = () => {
 
     const [products, setProducts] = useState([]);
 
-    
     const getData = ()=> {
       fetch("http://localhost:8000/products")
       .then((response) => response.json())

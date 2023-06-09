@@ -14,14 +14,25 @@ const Register1 = () => {
 
     const [state, setState] = useState(initialState);
 
-    const [passVerify, setPassVerify] = useState("");
+    const [passVerify, setPassVerify] = useState();
+    let invalidPass = "";
 
     const navigate = useNavigate();
 
     const handleClick = () => {
-        navigate("/register2", {
-            state: state
-        });
+        if(state.name !== "" || state.name !== null || state.email !== ""
+        || state.email !== null || state.lastname !== "" || state.lastname !== null 
+        || state.password !== "" || state.password !== null){
+            if(state.password === passVerify) {
+                navigate("/register2", {
+                    state: state
+                });
+            } else {
+                invalidPass = "Le due password non corrispondono";
+            }
+        } else {
+            console.log("compila tutti i campi")
+        }
     }
 
     return (
@@ -83,6 +94,7 @@ const Register1 = () => {
                         required />
                     <button onClick={handleClick}><strong>Continua</strong></button>
                 </form>
+                <p>{invalidPass}</p>
                 <p className="haveAccount">
                     Hai già un account? Clicca
                     <Link to="/login"><strong> qui </strong></Link>

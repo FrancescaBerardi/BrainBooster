@@ -1,9 +1,19 @@
 import { Link, useLocation } from "react-router-dom";
 import { FiShoppingCart } from "react-icons/fi";
 import { BiHomeAlt2 } from "react-icons/bi";
-import { BsSearch } from "react-icons/bs"
+import { BsSearch } from "react-icons/bs";
+import { useContext, useEffect, useState } from "react";
+import { AuthContext } from "../Login/AuthContext";
 
 const Navbar = () => {
+
+    const {getCartSize} = useContext(AuthContext);
+    
+    const [cartSizeLocal, setCartSizeLocal] = useState(getCartSize);
+
+    useEffect(()=>{
+        setCartSizeLocal(getCartSize);
+    }, [getCartSize]);
 
     const location = useLocation();
     const hiddenNavbarRoutes = ['/login', '/register1', '/register2'];
@@ -26,7 +36,7 @@ const Navbar = () => {
                         
                         <li><strong><BsSearch className="search-icon" /></strong></li>
                         <Link to={"/cart"}><li><FiShoppingCart className="cart-icon" />
-                            <span className="cart-total">10</span>
+                            <span className="cart-total"> {cartSizeLocal} </span>
                         </li></Link>
                         
                     </ul>

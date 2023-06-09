@@ -3,7 +3,6 @@ import { useState } from "react";
 
 const Register2 = () => {
 
-    debugger
     const location = useLocation();
     const user = location.state;
     const navigate = useNavigate();

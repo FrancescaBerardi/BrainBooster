@@ -1,7 +1,6 @@
 {
   "user": [
     
-   
     {
       "name": "fra",
       "lastname": "fra",
@@ -13,127 +12,142 @@
       "postalCode": "FRA",
       "gender": "yes",
       "id": 1,
-      "cart": []
+      "cart": [[1,1],[7,2],[2,5]]
     }
   ],
   "products": [
     {
       "id":1,
       "title": "java-course",
+      "productName": "Java",
       "category": "programmazione",
-      "productName": "Corso di Java",
+      "description": "Impari il linguaggio di programmazione Java, multipiattaforma e multiuso, in grado di eseguirlo su più sistemi operativi. Il progetto prevede lo sviluppo di un’applicazione Java per gestire le prenotazioni di attività basate sui tuoi interessi.",
       "priceNoIva": 120.0,
       "image" : "images/corso-java-paga.jpeg"
     },
     {
       "id":2,
       "title": "javascript-course",
+      "productName": "Javascript",
       "category": "programmazione",
-      "productName": "Corso di Javascript",
+      "description": "Impari le basi di JavaScript, linguaggio fondamentale per rendere le applicazioni web dinamiche. Il progetto prevede lo sviluppo di un'applicazione JavaScript che funzioni come un counter.",
       "priceNoIva": 150.0,
       "image" : "images/javascript.jpg"
     },
     {
       "id":3,
       "title": "html&css-course",
-      "productName": "Corso di HTML & CSS",
+      "productName": "HTML & CSS",
       "category": "programmazione",
+      "description": "Impari a utilizzare il linguaggio HTML unito al CSS per creare pagine web. Il progetto prevede la creazione di un sito personale, in cui inserire i progetti svolti per presentarti alle aziende.",
       "priceNoIva": 80.0,
       "image" : "images/corsohtmlcss.jpg"
     },
     {
       "id":4,
       "title": "react-course",
-      "productName": "Corso di React",
+      "productName": "React",
       "category": "programmazione",
+      "description": "Impari a utilizzare React, una libreria Javascript sviluppata da Facebook nel 2013, che permette di creare delle single page application molto performanti. Il progetto prevede la creazione di un sito web con React che permette la ricerca di una vasta collezione di libri.",
       "priceNoIva": 190.0,
       "image" : "images/react.png"
     },
     {
       "id":5,
       "title": "graphic-design",
-      "productName": "Corso di Graphic Design",
+      "productName": "Graphic Design",
       "category": "design",
+      "description": "L'obiettivo del corso Tecniche di Graphic Design è permettere di scoprire le tecniche per realizzare un prodotto grafico, creare documenti per la pubblicazione cartacea ed ipermediale, progettare e disegnare mokup",
       "priceNoIva": 170.0,
       "image" : "images/graphic-design-course.jpg"
     },
     {
       "id":6,
       "title": "ux-course",
-      "productName": "Corso di UX Design",
+      "productName": "UX Design",
       "category": "design",
+      "description": "Il corso intende formare UX Designer che siano autonomamente in grado di progettare l'Architettura dell'Informazione e l'interfaccia di un prodotto digitale a partire dai requisiti forniti dal Cliente",
       "priceNoIva": 220.0,
       "image" : "images/UX-design-course.jpg"
     },
     {
       "id":7,
       "title": "web-design-course",
-      "productName": "Corso di Web Design",
+      "productName": "Web Design",
       "category": "design",
+      "description": "Il corso è dedicato a chi vuole produrre siti web utilizzando le più moderne metodologie per la creazione di contributi digitali. Gli studenti imparano a realizzare siti dalla grafica accattivante e dalla navigazione intuitiva",
       "priceNoIva": 130.0,
       "image" : "images/web-design.jpg"
     },
     {
       "id":8,
       "title": "adobe-illustrator-course",
-      "productName": "Corso di Adobe Illustrator",
+      "productName": "Adobe Illustrator",
       "category": "design",
+      "description": "Il corso fornisce un'adeguata conoscenza degli strumenti e delle tecniche fondamentali del software Adobe Illustrator per l'elaborazione creativa dell'immagine. Durante il corso gli studenti imparano a progettare materiali grafici di base",
       "priceNoIva": 120.0,
       "image" : "images/Adobe-Illustrator.png"
     },
     {
       "id":9,
       "title": "france-course",
-      "productName": "Corso di Francese",
+      "productName": "Francese",
       "category": "lingue",
+      "description": "La persona comprende un’ampia gamma di testi complessi e lunghi e ne sa riconoscere il significato. Si esprime con scioltezza e naturalezza e usa la lingua in modo flessibile.  Riesce a produrre testi chiari, ben costruiti, dettagliati su argomenti complessi.",
       "priceNoIva": 90.0,
       "image" : "images/Corso-francese.jpg"
     },
     {
       "id":10,
       "title": "english-course",
-      "productName": "Corso di Inglese",
+      "productName": "Inglese",
       "category": "lingue",
+      "description": "La persona comprende un’ampia gamma di testi complessi e lunghi e ne sa riconoscere il significato. Si esprime con scioltezza e naturalezza e usa la lingua in modo flessibile.  Riesce a produrre testi chiari, ben costruiti, dettagliati su argomenti complessi.",
       "priceNoIva": 60.0,
       "image" : "images/english-course.jpg"
     },
     {
       "id":11,
       "title": "tedesco-course",
-      "productName": "Corso di Tedesco",
+      "productName": "Tedesco",
       "category": "lingue",
+      "description": "Lo scopo del corso è quello di arrivare ad una conoscenza indispensabile negli ambiti della grammatica e del lessico, in modo tale da arrivare a riuscire ad esprimerti in situazioni quotidiane in modo semplice, chiaro e corretto.",
       "priceNoIva": 100.0,
-      "image" : "images/english-course.jpg"
+      "image" : "images/volantino-tedesco.webp"
     },
     {
       "id":12,
       "title": "spanish-course",
-      "productName": "Corso di Spagnolo",
+      "productName": "Spagnolo",
       "category": "lingue",
+      "description": "La persona comprende un’ampia gamma di testi complessi e lunghi e ne sa riconoscere il significato. Si esprime con scioltezza e naturalezza e usa la lingua in modo flessibile.  Riesce a produrre testi chiari, ben costruiti, dettagliati su argomenti complessi.",
       "priceNoIva": 90.0,
       "image" : "images/Spanish-Course.png"
     },
     {
       "id":13,
       "title": "problem-solving-course",
-      "productName": "Corso di Problem Solving",
+      "productName": "Problem Solving",
       "category": "soft-skills",
+      "description": "Le Soft Skills non riguardano delle competenze tecniche, ma piuttosto sono legate a come interagisci con i colleghi, risolvi i problemi e a come gestisci il tuo lavoro. In altre parole, si tratta di tutte quelle competenze trasversali che nella vita professionale sono essenziali.",
       "priceNoIva": 250.0,
       "image" : "images/problem-solving-course.jpeg"
     },
     {
       "id":14,
       "title": "creative-writing-course",
-      "productName": "Corso di Scrittura Creativa",
+      "productName": "Scrittura Creativa",
       "category": "soft-skills",
+      "description": "Le Soft Skills non riguardano delle competenze tecniche, ma piuttosto sono legate a come interagisci con i colleghi, risolvi i problemi e a come gestisci il tuo lavoro. In altre parole, si tratta di tutte quelle competenze trasversali che nella vita professionale sono essenziali.",
       "priceNoIva": 250.0,
       "image" : "images/creating-writing.png"
     },
     {
       "id":15,
       "title": "trust-yourself-course",
-      "productName": "Corso di Autostima",
+      "productName": "Self Efficacy",
       "category": "soft-skills",
+      "description": "Le Soft Skills non riguardano delle competenze tecniche, ma piuttosto sono legate a come interagisci con i colleghi, risolvi i problemi e a come gestisci il tuo lavoro. In altre parole, si tratta di tutte quelle competenze trasversali che nella vita professionale sono essenziali.",
       "priceNoIva": 250.0,
       "image" : "images/building-self-trust.jpg"
     }

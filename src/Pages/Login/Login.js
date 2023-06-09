@@ -1,8 +1,11 @@
 import { Link, useNavigate } from "react-router-dom";
-import { useState } from "react";
+import { useState, useContext, useEffect } from "react";
 import { toast } from "react-toastify";
+import { AuthContext } from "../../Components/Login/AuthContext";
 
 const Login = () => {
+
+    const {userId, login, logout} = useContext(AuthContext);
 
     const navigate = useNavigate();
 
@@ -22,6 +25,7 @@ const Login = () => {
                 if (resp[i].password === state.password
                     && resp[i].email === state.email) {
                     console.log("Success");
+                    login(resp[i].id);
                     navigate("/");
                 } else if (resp[i].email === "" || resp[i].email === null
                     || resp[i].email === "" || resp[i].email === null) {
