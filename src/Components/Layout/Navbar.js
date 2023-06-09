@@ -1,5 +1,7 @@
 import { Link, useLocation } from "react-router-dom";
-import { FiShoppingCart, IconName } from "react-icons/fi";
+import { FiShoppingCart } from "react-icons/fi";
+import { BiHomeAlt2 } from "react-icons/bi";
+import { BsSearch } from "react-icons/bs"
 
 const Navbar = () => {
 
@@ -14,15 +16,15 @@ const Navbar = () => {
             <div className="nav-element">
                 <div className="logo-element">
 
-                    <img className="logo" src="images/logos.jpg" alt="logos" />
+                    <Link to={"/"}><img className="logo" src="images/logos.jpg" alt="logos" /></Link>
                     <h1 className="h1-logo">BrainBooster Courses</h1>
                 </div>
                 <div className="list-container">
                     <ul className="list1">
                         
-                        <Link to={"/"}><li><strong>Home</strong></li></Link>
+                        <Link to={"/"}><li><strong><BiHomeAlt2 className="cart-icon" /></strong></li></Link>
                         
-                        <li><strong>Search</strong></li>
+                        <li><strong><BsSearch className="search-icon" /></strong></li>
                         <Link to={"/cart"}><li><FiShoppingCart className="cart-icon" />
                             <span className="cart-total">10</span>
                         </li></Link>
@@ -30,6 +32,7 @@ const Navbar = () => {
                     </ul>
                 </div>
             </div>
+            <hr />
             <div className="nav-element3">
                 <ul className="list2">
 

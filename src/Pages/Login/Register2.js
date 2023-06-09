@@ -17,13 +17,13 @@ const Register2 = () => {
         street: "",
         country: "",
         postalCode: "",
-        gender: ""
+        gender: "",
+        cart: []
     }
 
     const [state, setState] = useState(initialState);
      
     const handleSubmit = (e) => {
-        debugger
         e.preventDefault();
         fetch("http://localhost:8000/user/", {
             method: "POST",

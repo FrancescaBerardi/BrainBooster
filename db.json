@@ -1,248 +1,7 @@
 {
   "user": [
-    {
-      "name": "",
-      "lastname": "asxasx",
-      "email": "asxas",
-      "password": "asxa",
-      "birthday": "2023-06-01",
-      "street": "asxsa",
-      "country": "axsa",
-      "postalCode": "axs",
-      "gender": "yes",
-      "id": 1
-    },
-    {
-      "birthday": "2023-05-30",
-      "street": "g",
-      "country": "g",
-      "postalCode": "hy",
-      "gender": "yes",
-      "id": 2
-    },
-    {
-      "birthday": "2023-05-30",
-      "street": "g",
-      "country": "g",
-      "postalCode": "hy",
-      "gender": "yes",
-      "id": 3
-    },
-    {
-      "birthday": "2023-05-31",
-      "street": "f",
-      "country": "f",
-      "postalCode": "f",
-      "gender": "yes",
-      "id": 4
-    },
-    {
-      "birthday": "2023-05-31",
-      "street": "f",
-      "country": "f",
-      "postalCode": "f",
-      "gender": "yes",
-      "id": 5
-    },
-    {
-      "birthday": "2023-05-31",
-      "street": "f",
-      "country": "f",
-      "postalCode": "f",
-      "gender": "yes",
-      "id": 6
-    },
-    {
-      "name": "ff",
-      "lastname": "fg",
-      "email": "ju",
-      "password": "ju",
-      "birthday": "2023-05-31",
-      "street": "ur",
-      "country": "ruj",
-      "postalCode": "ryuj",
-      "gender": "yes",
-      "id": 7
-    },
-    {
-      "birthday": "2023-05-31",
-      "street": "ruj",
-      "country": "ryu",
-      "postalCode": "ryuj",
-      "gender": "yes",
-      "id": 8
-    },
-    {
-      "birthday": "2023-05-31",
-      "street": "ruj",
-      "country": "ryu",
-      "postalCode": "ryuj",
-      "gender": "yes",
-      "id": 9
-    },
-    {
-      "birthday": "2023-05-31",
-      "street": "ruj",
-      "country": "ryu",
-      "postalCode": "ryuj",
-      "gender": "yes",
-      "id": 10
-    },
-    {
-      "birthday": "2023-05-31",
-      "street": "ruj",
-      "country": "ryu",
-      "postalCode": "ryuj",
-      "gender": "yes",
-      "id": 11
-    },
-    {
-      "birthday": "2023-05-31",
-      "street": "ruj",
-      "country": "ryu",
-      "postalCode": "ryuj",
-      "gender": "yes",
-      "id": 12
-    },
-    {
-      "birthday": "2023-05-29",
-      "street": "frf",
-      "country": "rfe",
-      "postalCode": "fe",
-      "gender": "yes",
-      "id": 13
-    },
-    {
-      "birthday": "2023-05-30",
-      "street": "sf",
-      "country": "sdf",
-      "postalCode": "sf",
-      "gender": "no",
-      "id": 14
-    },
-    {
-      "name": "gt",
-      "lastname": "tr",
-      "email": "rt",
-      "password": "rt",
-      "birthday": "2023-05-30",
-      "street": "trg",
-      "country": "gr",
-      "postalCode": "rtg",
-      "gender": "no",
-      "id": 15
-    },
-    {
-      "birthday": "2023-05-29",
-      "street": "dfs",
-      "country": "dsf",
-      "postalCode": "sdfsgdf",
-      "gender": "yes",
-      "id": 16
-    },
-    {
-      "user": {
-        "name": "fr",
-        "lastname": "sf",
-        "email": "fsd",
-        "password": "df"
-      },
-      "state": {
-        "birthday": "2023-05-29",
-        "street": "dfs",
-        "country": "dsf",
-        "postalCode": "sdfsgdf",
-        "gender": "yes"
-      },
-      "id": 17
-    },
-    {
-      "user": {
-        "name": "fr",
-        "lastname": "sf",
-        "email": "fsd",
-        "password": "df"
-      },
-      "state": {
-        "birthday": "2023-05-29",
-        "street": "dfs",
-        "country": "dsf",
-        "postalCode": "sdfsgdf",
-        "gender": "yes"
-      },
-      "id": 18
-    },
-    {
-      "user": {
-        "name": "fr",
-        "lastname": "fr",
-        "email": "fr",
-        "password": "fr"
-      },
-      "birthday": "2023-05-29",
-      "street": "fr",
-      "country": "fr",
-      "postalCode": "fr",
-      "gender": "yes",
-      "id": 19
-    },
-    {
-      "name": "fr",
-      "birthday": "2023-05-30",
-      "street": "de",
-      "country": "de",
-      "postalCode": "de",
-      "gender": "yes",
-      "id": 20
-    },
-    {
-      "name": "francesca",
-      "lastname": "berardi",
-      "email": "f.berardi",
-      "password": "fra",
-      "birthday": "2023-05-30",
-      "street": "fra",
-      "country": "fra",
-      "postalCode": "frad",
-      "gender": "yes",
-      "id": 21
-    },
-    {
-      "name": "giorgia",
-      "lastname": "gio",
-      "email": "gio@gio",
-      "password": "gio",
-      "birthday": "2000-05-25",
-      "street": "gio",
-      "country": "gio",
-      "postalCode": "gio",
-      "gender": "yes",
-      "id": 22
-    },
-    {
-      "name": "fr",
-      "lastname": "qrf",
-      "email": "efr",
-      "password": "re",
-      "birthday": "2023-05-29",
-      "street": "rf",
-      "country": "erf",
-      "postalCode": "erf",
-      "gender": "yes",
-      "id": 23
-    },
-    {
-      "name": "fr",
-      "lastname": "qrf",
-      "email": "efr",
-      "password": "re",
-      "birthday": "2023-05-30",
-      "street": "fr",
-      "country": "fr",
-      "postalCode": "fr",
-      "gender": "yes",
-      "id": 24
-    },
+    
+   
     {
       "name": "fra",
       "lastname": "fra",
@@ -253,16 +12,130 @@
       "country": "FRA",
       "postalCode": "FRA",
       "gender": "yes",
-      "id": 25
+      "id": 1,
+      "cart": []
+    }
+  ],
+  "products": [
+    {
+      "id":1,
+      "title": "java-course",
+      "category": "programmazione",
+      "productName": "Corso di Java",
+      "priceNoIva": 120.0,
+      "image" : "images/corso-java-paga.jpeg"
     },
     {
-      "id": 26
+      "id":2,
+      "title": "javascript-course",
+      "category": "programmazione",
+      "productName": "Corso di Javascript",
+      "priceNoIva": 150.0,
+      "image" : "images/javascript.jpg"
     },
     {
-      "id": 27
+      "id":3,
+      "title": "html&css-course",
+      "productName": "Corso di HTML & CSS",
+      "category": "programmazione",
+      "priceNoIva": 80.0,
+      "image" : "images/corsohtmlcss.jpg"
     },
     {
-      "id": 28
+      "id":4,
+      "title": "react-course",
+      "productName": "Corso di React",
+      "category": "programmazione",
+      "priceNoIva": 190.0,
+      "image" : "images/react.png"
+    },
+    {
+      "id":5,
+      "title": "graphic-design",
+      "productName": "Corso di Graphic Design",
+      "category": "design",
+      "priceNoIva": 170.0,
+      "image" : "images/graphic-design-course.jpg"
+    },
+    {
+      "id":6,
+      "title": "ux-course",
+      "productName": "Corso di UX Design",
+      "category": "design",
+      "priceNoIva": 220.0,
+      "image" : "images/UX-design-course.jpg"
+    },
+    {
+      "id":7,
+      "title": "web-design-course",
+      "productName": "Corso di Web Design",
+      "category": "design",
+      "priceNoIva": 130.0,
+      "image" : "images/web-design.jpg"
+    },
+    {
+      "id":8,
+      "title": "adobe-illustrator-course",
+      "productName": "Corso di Adobe Illustrator",
+      "category": "design",
+      "priceNoIva": 120.0,
+      "image" : "images/Adobe-Illustrator.png"
+    },
+    {
+      "id":9,
+      "title": "france-course",
+      "productName": "Corso di Francese",
+      "category": "lingue",
+      "priceNoIva": 90.0,
+      "image" : "images/Corso-francese.jpg"
+    },
+    {
+      "id":10,
+      "title": "english-course",
+      "productName": "Corso di Inglese",
+      "category": "lingue",
+      "priceNoIva": 60.0,
+      "image" : "images/english-course.jpg"
+    },
+    {
+      "id":11,
+      "title": "tedesco-course",
+      "productName": "Corso di Tedesco",
+      "category": "lingue",
+      "priceNoIva": 100.0,
+      "image" : "images/tedesco.jpg"
+    },
+    {
+      "id":12,
+      "title": "spanish-course",
+      "productName": "Corso di Spagnolo",
+      "category": "lingue",
+      "priceNoIva": 90.0,
+      "image" : "images/Spanish-Course.png"
+    },
+    {
+      "id":13,
+      "title": "problem-solving-course",
+      "productName": "Corso di Problem Solving",
+      "category": "soft-skills",
+      "priceNoIva": 250.0,
+      "image" : "images/problem-solving-course.jpeg"
+    },
+    {
+      "id":14,
+      "title": "creative-writing-course",
+      "productName": "Corso di Scrittura Creativa",
+      "category": "soft-skills",
+      "priceNoIva": 250.0,
+      "image" : "images/creating-writing.png"
+    },
+    {
+      "id":15,
+      "title": "trust-yourself-course",
+      "productName": "Corso di Autostima",
+      "category": "soft-skills",
+      "priceNoIva": 250.0,
+      "image" : "images/building-self-trust.jpg"
     }
   ]
 }

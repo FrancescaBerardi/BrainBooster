@@ -18,20 +18,20 @@ const Login = () => {
         fetch("http://localhost:8000/user/").then((resp) => {
             return resp.json();
         }).then((resp) => {
-            debugger
-            console.log(resp)
-            for (let i = 0; i < resp.length; i++) {
-                if (resp[i].password === state.password
-                    && resp[i].email === state.email) {
-                    { <p>Success</p> }
-                    navigate("/");
-                } else if (resp[i].email === "" || resp[i].email === null
-                    || resp[i].email === "" || resp[i].email === null) {
-                    console.log("Login fallito")
-                } else {
-                    console.log("Login fallito")
+            
+                for (let i = 0; i < resp.length; i++) {
+                    if (resp[i].password === state.password
+                        && resp[i].email === state.email) {
+                        { <p>Success</p> }
+                        navigate("/");
+                    } else if (resp[i].email === "" || resp[i].email === null
+                        || resp[i].email === "" || resp[i].email === null) {
+                        console.log("Login fallito")
+                    } else {
+                        console.log("Login fallito")
+                    }
                 }
-            }
+            
         }).catch((error) => {
             toast.error("Login fallito");
         })

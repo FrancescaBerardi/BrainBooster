@@ -80,13 +80,24 @@ button {
   background-color: #318CE7;
 }
 
-.nav-element {
+.nav-element, .footer-container {
   display: flex;
+}
+
+#test {
+  width: 600px;
+  height: 300px;
 }
 
 .cart-icon {
   color: aliceblue;
-  width: 30px;
+  width: 23px;
+  height: 23px;
+}
+
+.search-icon {
+  width: 20px;
+  height: 20px;
 }
 
 .cart-total {
@@ -122,6 +133,19 @@ button {
   display: flex;
 }
 
+.footer-container {
+  padding: 30px;
+  color: rgb(253, 254, 255);
+  background-color: #318CE7;
+  justify-content: space-around;
+  font-size: large;
+}
+
+.footer-container li {
+  margin-top: 20px;
+  list-style-type: none;
+}
+
 .logo-element {
   display: flex;
   width: 50%;
@@ -136,17 +160,9 @@ button {
   width: 50%;
 }
 
-.slider-product-container {
-  padding: 0 10px;
-  display: flex;
-  justify-content: center;
-  overflow-x: hidden;
-  scroll-behavior: smooth;
-}
-
 .myCard{
-  min-width: 600px;
-  min-height: 400px;
+  min-width: auto;
+  min-height: auto;
   background-color: #475053;
   margin: 10px;
   color: white;
@@ -170,18 +186,34 @@ button {
 }
 
 .product-carousel button {
-  width: 60px;
-  height: 50px;
-  border-radius: 70%;
-  position: absolute;
-  top: 0;
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 60px;
+  height: 100%;
+  position: absolute;
+  border: none;
+  background-color: aliceblue;
+  top: 0; 
+}
+
+.slider-product-container {
+  padding: 0 10px;
+  display: flex;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
 }
 
 .next-btn {
   right: 0;
 }
+
+.pre-btn p, .next-btn p {
+  font-size: 50px;
+  color: #318CE7;
+  cursor: pointer;
+  box-shadow: 0px 0px 10px 1px #003f7d;
+  border-radius: 10px;
+  }
 
 

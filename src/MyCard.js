@@ -1,9 +1,9 @@
 import React from 'react'
 
-export const MyCard = (props) => {
+export const MyCard = ({img}) => {
   return (
     <div className='myCard'>
-        MyCard {props.card}
+        <img id="test"src={img}></img>
     </div>
   )
 }

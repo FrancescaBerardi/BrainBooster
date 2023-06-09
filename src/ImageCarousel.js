@@ -1,18 +1,43 @@
+import { icons } from "react-icons/lib";
 import { MyCard } from "./MyCard"
 
 const ImageCarousel = () => {
+
+    
+
+    const imgs = [
+        {
+            title: "java",
+            image: "images/CorsoJava.png"
+        },
+        {
+            title: "java",
+            image: "images/CorsoJava.png"
+        }
+    ]
+
+    
+
+    const btnPressPrev = ()=>{
+        let box = document.querySelector('.slider-product-container');
+        const width = box.clientWidth;
+        box.scrollLeft = box.scrollLeft - width;
+    }
+    const btnPressNext = ()=> {
+        let box = document.querySelector('.slider-product-container');
+        const width = box.clientWidth;
+        box.scrollLeft = box.scrollLeft + width;
+    }
+
   return (
     <div className="product-carousel">
-        <button className="pre-btn"><p>&lt;</p></button>
-        <button className="next-btn"><p>&gt;</p></button>
+        <button onClick={btnPressPrev} className="pre-btn"><p>&lt;</p></button>
+        <button onClick={btnPressNext} className="next-btn"><p>&gt;</p></button>
 
         <div className="slider-product-container">
-            <MyCard card="1" />
-            <MyCard card="2" />
-            <MyCard card="3" />
-            <MyCard card="4" />
-            <MyCard card="5" />
-            <MyCard card="6" />
+            {imgs.map((img, i)=>
+                <MyCard key={"img_"+i} img={img.image} />
+            )}
         </div>
     </div>
   )

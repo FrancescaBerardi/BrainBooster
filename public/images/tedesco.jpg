@@ -1,0 +1,746 @@
+    <!doctype html>
+
+  <html class="no-js"  lang="it-IT">
+
+	<head>
+		<meta charset="utf-8">
+		
+		<!-- Force IE to use the latest rendering engine available -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<!-- Mobile Meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta class="foundation-mq">
+		<meta name="description" content="Deutsch im Raum: imparare il tedesco attraverso il ritmo e il movimento" />
+		
+		<!-- If Site Icon isn't set in customizer -->
+		
+		<link rel="pingback" href="https://www.labiolca.it/xmlrpc.php">
+
+		<title>Corso di Tedesco base &#8211; La Biolca</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" type="application/rss+xml" title="La Biolca &raquo; Feed" href="https://www.labiolca.it/feed/" />
+<link rel="alternate" type="application/rss+xml" title="La Biolca &raquo; Feed dei commenti" href="https://www.labiolca.it/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="La Biolca &raquo; Corso di Tedesco base Feed dei commenti" href="https://www.labiolca.it/corsi-e-attivita/corso-di-tedesco-base/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.labiolca.it\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://www.labiolca.it/wp-includes/css/dist/block-library/style.min.css?ver=6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-vendors-style-css' href='https://www.labiolca.it/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=9.8.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css' href='https://www.labiolca.it/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=9.8.4' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://www.labiolca.it/wp-includes/css/classic-themes.min.css?ver=6.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='cookie-law-info-css' href='https://www.labiolca.it/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-public.css?ver=3.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-gdpr-css' href='https://www.labiolca.it/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-gdpr.css?ver=3.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://www.labiolca.it/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=7.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://www.labiolca.it/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=7.6.0' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='https://www.labiolca.it/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=7.6.0' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='ppress-frontend-css' href='https://www.labiolca.it/wp-content/plugins/wp-user-avatar/assets/css/frontend.min.css?ver=4.10.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ppress-flatpickr-css' href='https://www.labiolca.it/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.css?ver=4.10.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ppress-select2-css' href='https://www.labiolca.it/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.css?ver=6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='newsletter-css' href='https://www.labiolca.it/wp-content/plugins/newsletter/style.css?ver=7.5.9' type='text/css' media='all' />
+<style id='newsletter-inline-css' type='text/css'>
+.tnp-subscription input.tnp-submit {background-color: #71A738;}
+.tnp-widget input.tnp-submit {background-color: #71A738;}
+.widget_newsletterwidget{font-size: .9em;}
+.tnp-widget input.tnp-submit{width: 100px;font-size: 0.9em;margin: 0 auto;}
+</style>
+<link rel='stylesheet' id='slb_core-css' href='https://www.labiolca.it/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sib-front-css-css' href='https://www.labiolca.it/wp-content/plugins/mailin/css/mailin-front.css?ver=6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='site-css-css' href='https://www.labiolca.it/wp-content/themes/JointsWP-master2/assets/css/style.css?ver=6.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.labiolca.it/wp-includes/js/jquery/jquery.min.js?ver=3.6.3' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.labiolca.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='cookie-law-info-js-extra'>
+/* <![CDATA[ */
+var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","strictlyEnabled":["necessary","obligatoire"],"ccpaType":"gdpr","js_blocking":"1","custom_integration":"","triggerDomRefresh":"","secure_cookies":""};
+var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#FFF","border":"#b1a6a6c2","border_on":"","button_1_button_colour":"#61a229","button_1_button_hover":"#4e8221","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#dedfe0","button_3_button_hover":"#b2b2b3","button_3_link_colour":"#333333","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#dedfe0","button_4_button_hover":"#b2b2b3","button_4_link_colour":"#333333","button_4_as_button":"1","button_7_button_colour":"#61a229","button_7_button_hover":"#4e8221","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"","notify_animate_hide":"1","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#333333","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
+var log_object = {"ajax_url":"https:\/\/www.labiolca.it\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.labiolca.it/wp-content/plugins/cookie-law-info/legacy/public/js/cookie-law-info-public.js?ver=3.0.9' id='cookie-law-info-js'></script>
+<script type='text/javascript' src='https://www.labiolca.it/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.js?ver=4.10.1' id='ppress-flatpickr-js'></script>
+<script type='text/javascript' src='https://www.labiolca.it/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.js?ver=4.10.1' id='ppress-select2-js'></script>
+<script type='text/javascript' id='sib-front-js-js-extra'>
+/* <![CDATA[ */
+var sibErrMsg = {"invalidMail":"Please fill out valid email address","requiredField":"Please fill out required fields","invalidDateFormat":"Please fill out valid date format","invalidSMSFormat":"Please fill out valid phone number"};
+var ajax_sib_front_object = {"ajax_url":"https:\/\/www.labiolca.it\/wp-admin\/admin-ajax.php","ajax_nonce":"d78a5d48b1","flag_url":"https:\/\/www.labiolca.it\/wp-content\/plugins\/mailin\/img\/flags\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.labiolca.it/wp-content/plugins/mailin/js/mailin-front.js?ver=1672047216' id='sib-front-js-js'></script>
+<link rel="https://api.w.org/" href="https://www.labiolca.it/wp-json/" /><link rel="alternate" type="application/json" href="https://www.labiolca.it/wp-json/wp/v2/posts/11657" /><link rel="canonical" href="https://www.labiolca.it/corsi-e-attivita/corso-di-tedesco-base/" />
+<link rel='shortlink' href='https://www.labiolca.it/?p=11657' />
+<link rel="alternate" type="application/json+oembed" href="https://www.labiolca.it/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.labiolca.it%2Fcorsi-e-attivita%2Fcorso-di-tedesco-base%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.labiolca.it/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.labiolca.it%2Fcorsi-e-attivita%2Fcorso-di-tedesco-base%2F&#038;format=xml" />
+<meta name="cdp-version" content="1.3.9" />	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="icon" href="https://www.labiolca.it/wp-content/uploads/2017/04/cropped-logo2013-80-2-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.labiolca.it/wp-content/uploads/2017/04/cropped-logo2013-80-2-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.labiolca.it/wp-content/uploads/2017/04/cropped-logo2013-80-2-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.labiolca.it/wp-content/uploads/2017/04/cropped-logo2013-80-2-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			/*
+Puoi aggiungere qui il tuo codice CSS.
+
+Per maggiori informazioni consulta la documentazione (fai clic sull'icona con il punto interrogativo qui sopra).
+*/
+
+.onsalehome {
+min-height: 3.236em;
+min-width: 3.236em;
+padding: .802em;
+font-weight: 700;
+position: relative;
+text-align: center;
+line-height: 3.236;
+top: -1.0em;
+left: 0em;
+margin: 0;
+border-radius: 60%;
+background-color: #77a464;
+color: #fff;
+font-size: .857em;
+z-index: 9;
+}
+
+h2 {
+    line-height: 1;
+}
+zoom {
+  transition: transform .2s; /* Animation */
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  transform: scale(1.5); 
+}
+
+#menu-negozio {
+	display: grid;
+}
+
+.menu > li, .menu.horizontal > li {
+  display: block;
+}		</style>
+		
+		<!-- Drop Google Analytics here -->
+		
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113518412-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-113518412-1', { 'anonymize_ip': true });
+		</script>
+
+		<!-- end analytics -->
+
+	</head>
+	
+	<!-- Uncomment this line if using the Off-Canvas Menu --> 
+		
+	<body class="post-template-default single single-post postid-11657 single-format-standard theme-JointsWP-master2 woocommerce-no-js">
+
+		<div class="off-canvas-wrapper">
+							
+			<div class="off-canvas position-right" id="off-canvas" data-off-canvas>
+	<ul id="menu-menu-alto" class="vertical menu" data-accordion-menu><li id="menu-item-5050" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-5050"><a href="https://www.labiolca.it/biolcalenda/">Biolcalenda</a>
+<ul class="vertical menu">
+	<li id="menu-item-5105" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5105"><a href="https://www.labiolca.it/biolcalenda/rivista/">La rivista mensile</a></li>
+	<li id="menu-item-6213" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-6213"><a href="https://www.labiolca.it/rubriche/">Rubriche</a>
+	<ul class="vertical menu">
+		<li id="menu-item-7031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7031"><a href="https://www.labiolca.it/rubriche/a-tavola-con-i-nostri-ragazzi/">A tavola con i nostri ragazzi</a></li>
+		<li id="menu-item-7032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7032"><a href="https://www.labiolca.it/rubriche/agricoltura-biodinamica/">Agricoltura biodinamica</a></li>
+		<li id="menu-item-7033" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7033"><a href="https://www.labiolca.it/rubriche/agricoltura-biologica/">Agricoltura biologica</a></li>
+		<li id="menu-item-7034" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7034"><a href="https://www.labiolca.it/rubriche/alimentazione/">Alimentazione</a></li>
+		<li id="menu-item-7035" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7035"><a href="https://www.labiolca.it/rubriche/bioedilizia/">Bioedilizia</a></li>
+		<li id="menu-item-7036" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7036"><a href="https://www.labiolca.it/rubriche/cogliere-il-cuore/">Cogliere il cuore</a></li>
+		<li id="menu-item-7037" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7037"><a href="https://www.labiolca.it/rubriche/decrescita/">Decrescita</a></li>
+		<li id="menu-item-7038" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7038"><a href="https://www.labiolca.it/rubriche/ecologia/">Ecologia</a></li>
+		<li id="menu-item-7039" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7039"><a href="https://www.labiolca.it/rubriche/editoriale/">Editoriale</a></li>
+		<li id="menu-item-7040" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7040"><a href="https://www.labiolca.it/rubriche/i-nuovi-protagonisti/">I protagonisti del biologico</a></li>
+		<li id="menu-item-9935" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9935"><a href="https://www.labiolca.it/rubriche/il-medico-a-tavola/">Il medico a tavola</a></li>
+		<li id="menu-item-7041" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-7041"><a href="https://www.labiolca.it/rubriche/i-quattro-elementi/">I quattro elementi</a>
+		<ul class="vertical menu">
+			<li id="menu-item-7042" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7042"><a href="https://www.labiolca.it/rubriche/i-quattro-elementi/quattro-elementi-acqua/">Acqua</a></li>
+			<li id="menu-item-7043" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7043"><a href="https://www.labiolca.it/rubriche/i-quattro-elementi/quattro-elementi-aria/">Aria</a></li>
+			<li id="menu-item-7044" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7044"><a href="https://www.labiolca.it/rubriche/i-quattro-elementi/quattro-elementi-fuoco/">Fuoco</a></li>
+		</ul>
+</li>
+		<li id="menu-item-7045" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7045"><a href="https://www.labiolca.it/rubriche/influenze-cosmiche/">Influenze cosmiche</a></li>
+		<li id="menu-item-8114" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8114"><a href="https://www.labiolca.it/rubriche/uomo-e-tecnologia/">Uomo e tecnologia</a></li>
+		<li id="menu-item-7135" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7135"><a href="https://www.labiolca.it/rubriche/vaccini-e-salute/">Vaccini e salute</a></li>
+	</ul>
+</li>
+	<li id="menu-item-5106" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5106"><a href="https://www.labiolca.it/effervescienza/">EfferveScienza</a></li>
+	<li id="menu-item-6212" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6212"><a href="https://www.labiolca.it/rivenditori-biolcalenda/">Rivenditori Biolcalenda</a></li>
+	<li id="menu-item-5107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5107"><a href="http://#">Inserzionisti</a>
+	<ul class="vertical menu">
+		<li id="menu-item-6502" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6502"><a href="https://www.labiolca.it/diventa-nostro-sostenitore/">Diventa nostro sostenitore</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-12151" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12151"><a href="https://www.labiolca.it/rubriche/">Rubriche</a></li>
+<li id="menu-item-5714" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-5714"><a href="https://www.labiolca.it/corsi-e-attivita/">Attività</a>
+<ul class="vertical menu">
+	<li id="menu-item-6331" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-6331"><a href="https://www.labiolca.it/corsi-e-attivita/">Tutti i corsi</a></li>
+	<li id="menu-item-6222" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-6222"><a href="https://www.labiolca.it/corsi-e-attivita/gruppi-di-studio/">Gruppi di studio</a></li>
+</ul>
+</li>
+<li id="menu-item-7046" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-7046"><a href="https://www.labiolca.it/ricette/">A tavola</a>
+<ul class="vertical menu">
+	<li id="menu-item-6332" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6332"><a href="https://www.labiolca.it/cucina-biointegrale/le-ragioni-di-una-scelta/">Vegetarianesimo</a></li>
+	<li id="menu-item-6215" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-6215"><a href="https://www.labiolca.it/ricette/">Ricette</a>
+	<ul class="vertical menu">
+		<li id="menu-item-7047" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7047"><a href="https://www.labiolca.it/ricette/la-cucina-per-intolleranti-e-allergici/">La cucina per intolleranti e allergici</a></li>
+		<li id="menu-item-7052" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7052"><a href="https://www.labiolca.it/ricette/cucina-etnica/">Cucina Etnica</a></li>
+		<li id="menu-item-7053" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7053"><a href="https://www.labiolca.it/ricette/cucina-europea-vegetariana/">Cucina europea vegetariana</a></li>
+		<li id="menu-item-7054" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7054"><a href="https://www.labiolca.it/ricette/cucina-regionale/">Cucina regionale</a></li>
+		<li id="menu-item-7051" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7051"><a href="https://www.labiolca.it/ricette/ricette-primavera/">Ricette Primavera</a></li>
+		<li id="menu-item-7049" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7049"><a href="https://www.labiolca.it/ricette/ricette-estate/">Ricette Estate</a></li>
+		<li id="menu-item-7048" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7048"><a href="https://www.labiolca.it/ricette/ricette-autunno/">Ricette Autunno</a></li>
+		<li id="menu-item-7050" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7050"><a href="https://www.labiolca.it/ricette/ricette-inverno/">Ricette Invernali</a></li>
+		<li id="menu-item-12671" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12671"><a href="https://www.labiolca.it/ricette/cucina-relazionale/">Cucina relazionale</a></li>
+		<li id="menu-item-12670" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12670"><a href="https://www.labiolca.it/ricette/video-ricette/">Video ricette</a></li>
+	</ul>
+</li>
+	<li id="menu-item-6216" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6216"><a href="https://www.labiolca.it/cucina-biointegrale/consigli-utili/">Consigli Utili</a></li>
+	<li id="menu-item-6217" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6217"><a href="https://www.labiolca.it/cucina-biointegrale/i-prodotti/">I prodotti</a></li>
+</ul>
+</li>
+<li id="menu-item-5725" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-5725"><a href="https://www.labiolca.it/categoria-prodotto/pubblicazioni/">Pubblicazioni</a>
+<ul class="vertical menu">
+	<li id="menu-item-6333" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-6333"><a href="https://www.labiolca.it/categoria-prodotto/pubblicazioni/">Tutte le pubblicazioni</a></li>
+	<li id="menu-item-6218" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6218"><a href="https://www.labiolca.it/biolcalenda/calendario-semine-e-lavorazioni/">Calendario Semine e Lavorazioni</a></li>
+</ul>
+</li>
+<li id="menu-item-5053" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5053"><a href="https://www.labiolca.it/sostenitori/">Sostenitori</a></li>
+<li id="menu-item-5280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5280"><a href="https://www.labiolca.it/chi-siamo/">Chi Siamo</a>
+<ul class="vertical menu">
+	<li id="menu-item-6481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6481"><a href="https://www.labiolca.it/chi-siamo/">Chi Siamo</a></li>
+	<li id="menu-item-6482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6482"><a href="https://www.labiolca.it/diventare-socio/">Diventare socio</a></li>
+	<li id="menu-item-6479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6479"><a href="https://www.labiolca.it/la-sede/">La nostra sede</a></li>
+	<li id="menu-item-6483" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6483"><a href="https://www.labiolca.it/contatti/">Contatti</a></li>
+	<li id="menu-item-6480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6480"><a href="https://www.labiolca.it/cerca-nel-sito/">Cerca nel sito</a></li>
+</ul>
+</li>
+</ul></div>			
+			<div class="off-canvas-content" data-off-canvas-content>
+				
+				<header class="header" role="banner">
+						
+					 <!-- This navs will be applied to the topbar, above all content .To see additional nav styles, visit the /parts directory. Per attivare il menu centrale senza logo a sinistra usare offcanvas-topbar-->
+					 <!-- Men� in alto a destra  -->
+					<!--?php get_template_part( 'parts/nav', 'menuright-contatti-topbar' ); ?-->
+					 <!--?php get_template_part( 'parts/nav', 'offcanvas-topbar-logo' ); ?-->
+					 <!-- By default, this menu will use off-canvas for small
+	 and a topbar for medium-up -->
+	 
+<div>
+	<div class="row top-bar menu-centered">
+		<div class="top-bar-left float-left">
+			<a href="https://www.labiolca.it">
+				&nbsp;&nbsp;&nbsp;&nbsp;
+				<img style="margin-top:10px;" src="https://www.labiolca.it/wp-content/uploads/2017/03/logo-nuovo-sito-labiolca.png" width="220px">
+			</a>
+		</div>
+		<div class="show-for-medium">
+			<div style="margin-bottom:-40px;" class="row top-bar" id="top-bar-right-menu-contatti">
+				<div class="top-bar-right-menu-contatti-inner float-right">
+					<ul id="menu-contatti-top" class="menu_contact vertical medium-horizontal menu" data-responsive-menu="accordion medium-dropdown"><li id="menu-item-5278" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5278"><a href="https://www.labiolca.it/contatti/">Contatti</a></li>
+<li id="menu-item-5277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5277"><a href="https://www.labiolca.it/diventare-socio/">Diventare socio</a></li>
+<li id="menu-item-5968" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5968"><a href="https://www.labiolca.it/cerca-nel-sito/"><i style=" font-size:1.8em;" title="Cerca sul sito" class="fi-magnifying-glass"></i></a></li>
+<li id="menu-item-12691" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12691"><a href="https://www.youtube.com/user/LaBiolca1977"><i style="font-size:2em;margin-right: -1em;" title="Vai al canale Youtube de La Biolca" class="fi-social-youtube"></i></a></li>
+<li id="menu-item-6075" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6075"><a href="https://www.facebook.com/LaBiolca/"><i style="font-size:2em;" title="Vai alla pagina Facebook de La Biolca" class="fi-social-facebook"></i></a></li>
+</ul>				</div>
+			</div>
+			<div class="top-bar-right">
+				<ul id="menu-menu-alto-1" class="vertical medium-horizontal menu" data-responsive-menu="accordion medium-dropdown"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5050"><a href="https://www.labiolca.it/biolcalenda/">Biolcalenda</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12151"><a href="https://www.labiolca.it/rubriche/">Rubriche</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-5714"><a href="https://www.labiolca.it/corsi-e-attivita/">Attività</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7046"><a href="https://www.labiolca.it/ricette/">A tavola</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5725"><a href="https://www.labiolca.it/categoria-prodotto/pubblicazioni/">Pubblicazioni</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5053"><a href="https://www.labiolca.it/sostenitori/">Sostenitori</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5280"><a href="https://www.labiolca.it/chi-siamo/">Chi Siamo</a></li>
+</ul>			</div>
+		</div>
+	</div>
+	<div class="top-bar-right float-right show-for-small-only">
+		<ul class="menu">
+			<!-- <li><button class="menu-icon" type="button" data-toggle="off-canvas"></button></li> -->
+			<li><a data-toggle="off-canvas">Menu</a></li>
+		</ul>
+	</div>
+</div>
+	 	
+				</header> <!-- end .header -->	<div class="row expanded text-center" style="padding-top:2em;background-color:#A5D46A;">
+    		<header>
+			<h6 style="color:white;margin-bottom:-0.5em;">PRESSO LA SEDE BIOLCA E NON SOLO ...</h6>
+			<h1 class="page-title">Corsi e Attivit&agrave;</h1>
+		</header>
+	</div>
+	
+	<div class="contestual top-bar menu-centered hide-for-small-only" id="nav-bar-header-sub-menu">
+	<ul id="menu-corsi" class="vertical medium-horizontal menu" data-responsive-menu="accordion medium-dropdown"><li id="menu-item-5191" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-5191"><a href="https://www.labiolca.it/corsi-e-attivita/">Tutti i corsi</a></li>
+<li id="menu-item-12403" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12403"><a href="https://www.labiolca.it/corsi-e-attivita/webinar/">Webinar</a></li>
+<li id="menu-item-6214" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-6214"><a href="https://www.labiolca.it/corsi-e-attivita/gruppi-di-studio/">Gruppi di studio</a></li>
+<li id="menu-item-6853" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-6853"><a href="https://www.labiolca.it/corsi-e-attivita/corsi-attivi-annuali/">Corsi attivi / annuali</a></li>
+</ul></div>
+			
+<div id="content">
+
+	<div id="inner-content" class="row">
+
+		<main id="main" class="large-8 medium-8 columns" role="main">
+		
+		    		
+		    	<article id="post-11657" class="post-11657 post type-post status-publish format-standard has-post-thumbnail hentry category-altre-tipologie category-corsi-e-attivita category-corsi-corsi category-corsi-attivi-annuali tag-lingua tag-movimento tag-tedesco" role="article" itemscope itemtype="http://schema.org/BlogPosting">
+						
+	<header class="article-header">
+		<h1 class="entry-title single-title" itemprop="headline">Corso di Tedesco base</h1>
+	</header> <!-- end article header -->
+					
+    <section class="entry-content" itemprop="articleBody">
+		<img width="800" height="388" src="https://www.labiolca.it/wp-content/uploads/2019/12/tedesco.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" srcset="https://www.labiolca.it/wp-content/uploads/2019/12/tedesco.jpg 800w, https://www.labiolca.it/wp-content/uploads/2019/12/tedesco-600x291.jpg 600w, https://www.labiolca.it/wp-content/uploads/2019/12/tedesco-300x146.jpg 300w, https://www.labiolca.it/wp-content/uploads/2019/12/tedesco-768x372.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />		
+<p><strong>A partire da sabato 21 gennaio 2023</strong><br><strong>Relatrice: Raffaella Brussato, docente di Lingua tedesca</strong></p>
+
+
+
+<p><strong>“Deutsch im Raum: imparare il tedesco attraverso il ritmo e il movimento”</strong>. Sono previsti 7 incontri, il sabato pomeriggio dalle 15 alle 18. Diversi studi scientifici hanno evidenziato che chi compie movimenti ritmici durante l&#8217;apprendimento impara più velocemente e consegue risultati migliori di coloro che stanno seduti e concentrati.</p>
+
+
+
+<span id="more-11657"></span>
+
+
+
+<p>Lo sapevano già i greci che studiavano e insegnavano camminando lentamente&#8230; Altri studi ed esperienze didattiche hanno dimostrato che certi movimenti compiuti prima di iniziare a studiare o di svolgere determinate prove favoriscono e incrementano le facoltà di apprendimento e il livello di prestazione agli esami. Tutto ciò vale in particolare per lo studio delle lingue, perché la lingua è un essere vivente che ci viene incontro attraverso suoni, ritmi e melodie. Il corso qui proposto vuole introdurre le persone nel ricco mondo della lingua tedesca attraverso il movimento ritmico, l&#8217;ascolto attivo e interattivo, il canto, il disegno, la poesia e il gioco, senza trascurare lo studio della grammatica. Sarà possibile attivare su richiesta corsi successivi per progredire ulteriormente anche in settori specifici.</p>
+
+
+
+<p><strong>Obiettivi del corso</strong>:<br>&#8211; imparare a pronunciare in modo corretto e naturale suoni, tono e melodia della frase tedesca;<br>&#8211; acquisire i primi elementi della grammatica di base e del lessico utilizzabili nelle conversazioni di un principiante.</p>
+
+
+
+<p><strong>Date e argomenti trattati</strong><br>I° incontro:<strong> sabato 21 gennaio </strong>-saluti, suoni, alfabeto, numeri da 1 a 20.<br>II° incontro:<strong> sabato 11 febbraio </strong>-presentazione di sé e degli altri, numeri da 20 a 100.<br>III° incontro:<strong> sabato 18 febbraio </strong>– giorni, mesi e stagioni.<br>IV° incontro:<strong> sabato 4 marzo </strong>–orario formale ed informale.<br>V° incontro:<strong> sabato 18 marzo </strong>–cibo e acquisti nei negozi.<br>VI° incontro:<strong> sabato 1 aprile </strong>– indicazioni stradali.<br>VII° incontro:<strong> sabato 15 aprile –</strong> ripasso e test di autovalutazione.</p>
+
+
+
+<p><strong>Relatrice</strong>: Raffaella Brussato, docente di Lingua tedesca presso scuole di lingue ed enti di formazione accreditati dalla Regione Veneto; è diplomata in Spacial Dynamics livello 1 e studia da anni gli effetti del movimento sull’apprendimento, inserendo nelle sue lezioni anche esercizi di Dinamiche dello Spazio e Brain Gym.<br><strong>Dove e quando: </strong>Sono previsti 7 incontri, il sabato pomeriggio dalle 15 alle 18 presso la sede Biolca a Battaglia Terme (PD)<br><strong>Quota di partecipazione: </strong>€ 230,00 per i soci Biolca (i non soci devono aggiungere la quota associativa di €22,00 che dà diritto a ricevere il periodico Biolcalenda per un anno).<br><strong>Adesioni: </strong>il corso è a numero chiuso e le adesioni verranno raccolte in base all’ordine di arrivo.<br><strong>Per info e iscrizioni</strong>: 049 9101155 (Biolca) o <a href="mailto:info@labiolca.it">info@labiolca.it</a> o 345 2758337 (Martina)<br>Per informazioni sui contenuti:328 0374122 (Raffaella) o studiomov@protonmail.com</p>
+	</section> <!-- end article section -->
+	<div>
+		<!--Social-button http://www.webdesignerforum.co.uk/topic/70328-easy-social-sharing-buttons-for-wordpress-without-a-plugin/-->
+		<!--Linkedin--><a class="float-right" class="linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;title=Corso di Tedesco base&amp;url=https://www.labiolca.it/corsi-e-attivita/corso-di-tedesco-base/" title="Condividi l'articolo su LinkedIn" rel="external nofollow" rel="nofollow" target="_blank"><i style="font-size:2em; padding:4px;" class="fi-social-linkedin"></i></a>
+		<!--Google Plus--><a class="float-right" target="_blank" href="https://plus.google.com/share?url=https://www.labiolca.it/corsi-e-attivita/corso-di-tedesco-base/" title="Condividi questo articolo su Google +"><i style="font-size:2em; padding:4px;" class="fi-social-google-plus"></i></a>
+		<!--Twitter--><a class="float-right" href="http://twitter.com/home?status=Reading: https://www.labiolca.it/corsi-e-attivita/corso-di-tedesco-base/" title="Condividi questo articolo su Twitter!" target="_blank"><i style="font-size:2em; color: padding:4px;" class="fi-social-twitter"></i></a>
+		<!--Facebook--><a class="float-right" href="http://www.facebook.com/sharer.php?u=https://www.labiolca.it/corsi-e-attivita/corso-di-tedesco-base/&amp;t=Corso di Tedesco base" title="Condividi questo articolo su Facebook!" onclick="window.open(this.href); return false;"><i style="font-size:2em; padding:4px;" class="fi-social-facebook"></i></a>
+	</div>						
+	<footer class="article-footer">
+				<p class="tags"><span class="tags-title">Tags:</span> <a href="https://www.labiolca.it/tag/lingua/" rel="tag">Lingua</a>, <a href="https://www.labiolca.it/tag/movimento/" rel="tag">movimento</a>, <a href="https://www.labiolca.it/tag/tedesco/" rel="tag">tedesco</a></p>	
+	</footer> <!-- end article footer -->
+						
+	
+<div id="comments" class="comments-area">
+
+	
+			<h2 class="comments-title">
+			2 comments on &ldquo;<span>Corso di Tedesco base</span>&rdquo;		</h2>
+
+		
+		<ol class="commentlist">
+				<li class="comment even thread-even depth-1 panel">
+		<div class="media-object">
+			<div class="media-object-section">
+			    <img alt='' src='https://secure.gravatar.com/avatar/66d3d43dc2705429c3ff1d1adb8d364a?s=75&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/66d3d43dc2705429c3ff1d1adb8d364a?s=150&#038;d=mm&#038;r=g 2x' class='avatar avatar-75 photo' height='75' width='75' loading='lazy' decoding='async'/>			  </div>
+			<div class="media-object-section">
+				<article id="comment-11207">
+					<header class="comment-author">
+												Andrea on
+						<time datetime="2022-12-5"><a href="https://www.labiolca.it/corsi-e-attivita/corso-di-tedesco-base/#comment-11207"> Dicembre 5th, 2022 - 2:20pm </a></time>
+											</header>
+										<section class="comment_content clearfix">
+						<p>Buongiorno. Qual è l&#8217;età minima per poter partecipare al corso? Una bambina di 11 anni potrebbe partecipare? Grazie</p>
+					</section>
+					<a rel='nofollow' class='comment-reply-link' href='https://www.labiolca.it/corsi-e-attivita/corso-di-tedesco-base/?replytocom=11207#respond' data-commentid="11207" data-postid="11657" data-belowelement="comment-11207" data-respondelement="respond" data-replyto="Rispondi a Andrea" aria-label='Rispondi a Andrea'>Rispondi</a>				</article>
+			</div>
+		</div>
+	<!-- </li> is added by WordPress automatically -->
+<ul class="children">
+	<li class="comment byuser comment-author-martina odd alt depth-2 panel">
+		<div class="media-object">
+			<div class="media-object-section">
+			    <img alt='' src='https://secure.gravatar.com/avatar/5dd43f62c920d3b6b99d9b7e81454553?s=75&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/5dd43f62c920d3b6b99d9b7e81454553?s=150&#038;d=mm&#038;r=g 2x' class='avatar avatar-75 photo' height='75' width='75' loading='lazy' decoding='async'/>			  </div>
+			<div class="media-object-section">
+				<article id="comment-11208">
+					<header class="comment-author">
+												ANB VVV on
+						<time datetime="2022-12-5"><a href="https://www.labiolca.it/corsi-e-attivita/corso-di-tedesco-base/#comment-11208"> Dicembre 5th, 2022 - 5:06pm </a></time>
+											</header>
+										<section class="comment_content clearfix">
+						<p>Buona sera Andrea</p>
+<p>le ho mandato una mail con tutte le indicazioni del caso.</p>
+<p>Cordiali saluti<br />
+<a href="mailto:info@labiolca.it">info@labiolca.it</a></p>
+					</section>
+					<a rel='nofollow' class='comment-reply-link' href='https://www.labiolca.it/corsi-e-attivita/corso-di-tedesco-base/?replytocom=11208#respond' data-commentid="11208" data-postid="11657" data-belowelement="comment-11208" data-respondelement="respond" data-replyto="Rispondi a ANB VVV" aria-label='Rispondi a ANB VVV'>Rispondi</a>				</article>
+			</div>
+		</div>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		</ol>
+
+		
+	
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Lascia un commento <small><a rel="nofollow" id="cancel-comment-reply-link" href="/corsi-e-attivita/corso-di-tedesco-base/#respond" style="display:none;">Annulla risposta</a></small></h3><form action="https://www.labiolca.it/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><input type="hidden" autocomplete="off" autocorrect="off" name="sSUO-n-Y-pc-c-vt-p" value="" /><p class="comment-notes"><span id="email-notes">Il tuo indirizzo email non sarà pubblicato.</span> <span class="required-field-message">I campi obbligatori sono contrassegnati <span class="required">*</span></span></p><p class="comment-form-comment"><label for="comment">Commento <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Nome <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" autocomplete="email" required /></p>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Do il mio consenso affinché un cookie salvi i miei dati (nome, email, sito web) per il prossimo commento.</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="button" value="Invia commento" /> <input type='hidden' name='comment_post_ID' value='11657' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p></form>	</div><!-- #respond -->
+	
+</div><!-- #comments -->	
+													
+</article> <!-- end article -->		    	
+		    
+		</main> <!-- end #main -->
+
+		<div id="sidebar-biolcalenda" class="sidebar large-3 medium-3 columns" role="complementary">
+
+			<div id="custom_html-2" class="widget_text widget widget_custom_html"><h4 class="widgettitle">5 x mille</h4><div class="textwidget custom-html-widget"><center>Dona il tuo 5 per mille!<br>
+	L''Associazione La Biolca, a sostegno delle proprie attività istituzionali, può essere beneficiaria anche di semplici donazioni.
+	<br>&nbsp;<br>
+<a href="/5-per-mille/" class="button alert">5 x mille</a>
+</center>
+</div></div><div id="newsletterwidget-5" class="widget widget_newsletterwidget"><h4 class="widgettitle">Newsletter</h4>Resta aggiornato sui nuovi corsi, rubriche articoli e novità della nostra Associazione.
+<p></p>
+<p></p>
+<div class="tnp tnp-subscription">
+<form method="post" action="https://www.labiolca.it/?na=s" onsubmit="return newsletter_check(this)">
+
+<input type="hidden" name="nlang" value="">
+<div class="tnp-field tnp-field-firstname"><label>Nome</label><input class="tnp-firstname" type="text" name="nn" ></div>
+<div class="tnp-field tnp-field-email"><label>Email</label><input class="tnp-email" type="email" name="ne" required></div>
+<div class="tnp-field tnp-field-privacy"><label><input type="checkbox" name="ny" required class="tnp-privacy">&nbsp;<a target="_blank" href="http://www.labiolca.it/privacy">Informativa sulla Privacy</a></label></div>
+<div class="tnp-field tnp-field-button"><input class="tnp-submit" type="submit" value="Iscriviti">
+</div>
+</form>
+</div>
+Vedi tutte <a href="https://www.labiolca.it/newsletter">le ultime newsletter</a></center>.</div><div id="text-11" class="widget widget_text"><h4 class="widgettitle">Gruppi di studio</h4>			<div class="textwidget">Per approfondire l'antroposofia di Rudolf Steiner.</br>
+&nbsp;
+<center><a href="gruppi-di-studio/"><img class="size-full wp-image-19" src="https://www.labiolca.it/wp-content/uploads/2012/03/rudolf11.jpg" alt="Rudolf Steiner . Gruppi di studio presso l'Associazione La Biolca" width="180" /></a>
+</br>
+&nbsp;
+</br>
+<a href="gruppi-di-studio/" class="button small">Approfondisci</a></center></div>
+		</div><div id="text-10" class="widget widget_text">			<div class="textwidget">La Biolca è anche in radio, seguici ogni 15 giorni, il giovedì, su radio Cooperativa.
+<center><a href="novita-la-biolca-e-anche-in-radio/"><img class="wp-image-6187 size-thumbnail aligncenter" src="https://www.labiolca.it/wp-content/uploads/2017/04/logo-radio-biolca-200x200.png" alt="La Biolca è anche in radio, seguici ogni 15 giorni, il giovedì, su radio Cooperativa." width="200" height="200" /></a>
+<a href="novita-la-biolca-e-anche-in-radio/" class="button small">Approfondisci</a></center></div>
+		</div><div id="search-7" class="widget widget_search"><h4 class="widgettitle">Cerca nel sito</h4><form role="search" method="get" id="searchform" class="searchform" action="https://www.labiolca.it/" >
+    <div class="text-center">
+    <label class="screen-reader-text" for="s"></label>
+    <input type="text" value="" name="s" id="s" />
+    <input type="submit" class="button" id="searchsubmit" value="Cerca" />
+    </div>
+    </form></div>	
+</div>
+	</div> <!-- end #inner-content -->
+
+</div> <!-- end #content -->
+
+				<footer class="footer" role="contentinfo">
+					<div class="row">
+						<div class="small-12 medium-8 large-8 columns">
+							<div class="row">
+								<div class="small-12 medium-6 large-4 columns">
+									<h5>Biolcalenda</h5>
+									<h7><a href="https://www.labiolca.it/diventare-socio/">COME ABBONARSI</a></h7></BR>
+									<h7><a href="https://www.labiolca.it/effervescienza/">EFFERVESCIENZA</a></h7></BR>
+									<h7><a href="https://www.labiolca.it/biolcalenda/calendario-semine-e-lavorazioni/">CALENDARIO BIODINAMICO</a></h7></BR>
+									<h7><a href="https://www.labiolca.it/rubriche/">RUBRICHE</a></h7></BR>
+									<h5>Attivit&agrave; e corsi</h5>
+									<h7><a href="https://www.labiolca.it/corsi-e-attivita/">TUTTI I CORSI</a></h7></BR>
+									<h7><a href="https://www.labiolca.it/corsi-e-attivita/gruppi-di-studio/">GRUPPI DI STUDIO</a></h7></BR>
+								</div>
+								<div class="small-12 medium-6 large-4 columns">
+									<h5>Rubriche</h5>
+									<h7><a href="https://www.labiolca.it/rubriche/agricoltura-biodinamica/">AGRICOLTURA BIODINAMICA</a></h7></BR>
+									<h7><a href="https://www.labiolca.it/rubriche/agricoltura-biologica/">AGRICOLTURA BIOLOGICA</a></h7></BR>
+									<h7><a href="https://www.labiolca.it/rubriche/nanopatologie/">NANOPATOLOGIE</a></h7></BR>
+									<h7><a href="https://www.labiolca.it/rubriche/alimentazione/">ALIMENTAZIONE</a></h7></BR>
+									<h7><a href="https://www.labiolca.it/rubriche/bioedilizia/">BIOEDILIZIA</a></h7></BR>
+									<h7><a href="https://www.labiolca.it/rubriche/vaccini-e-salute/">VACCINI E SALUTE</a></h7></BR>
+									<h7><a href="https://www.labiolca.it/rubriche/ecologia/">ECOLOGIA</a></h7></BR>
+									<h7><a href="https://www.labiolca.it/rubriche/influenze-cosmiche/">INFLUENZE COSMICHE</a></h7></BR>
+									<h7><a href="https://www.labiolca.it/rubriche/rimedi-naturali/">RIMEDI NATURALI</a></h7></BR>
+									
+								</div>
+								<div class="small-12 medium-6 large-4 columns">
+									<h5>Alimentazione</h5>
+									<h7><a href="https://www.labiolca.it/ricette">TUTTE LE RICETTE</a></h7></BR>
+									<h7><a href="https://www.labiolca.it/ricette/cucina-europea-vegetariana/">CUCINA EUROPEA VEGETARIANA</a></h7></BR>										
+									<h7><a href="https://www.labiolca.it/ricette/ricette-primavera/">RICETTE DI PRIMAVERA</a></h7></BR>
+									<h5>A tavola</h5>
+									<h7><a href="https://www.labiolca.it/cucina-biointegrale/le-ragioni-di-una-scelta/">VEGETARIANESIMO</a></h7></BR>
+									<h7><a href="https://www.labiolca.it/cucina-biointegrale/le-ragioni-di-una-scelta/un-giorno-da-veg/">UN GIORNO DA VEG</a></h7></BR>
+									<h7><a href="https://www.labiolca.it/rubriche/il-medico-a-tavola/">IL MEDICO A TAVOLA</a></h7></BR>
+								</div>
+							</div>
+						</div>
+						<div class="small-12 medium-4 large-4 columns">
+							<h5>CONTATTI</h5>
+							<p>
+								<i class="fi-marker" style="font-size: 1.2em;"></i> via G. Marconi 13 - 35041 Battaglia Terme - PD</br>
+								<i class="fi-telephone" style="font-size: 1.2em;"></i> 049 910 1155 telefono e fax</br>
+								<a href="mailto:info@labiolca.it"><i class="fi-mail" style="font-size: 1.2em;"></i> info@labiolca.it</a></br>
+								<a href="https://www.facebook.com/LaBiolca/?fref=ts" target="#"><i class="fi-social-facebook" style="font-size: 1.2em;"></i>   La Biolca Associazione Culturale</a></br>
+								<a href="https://www.youtube.com/user/LaBiolca1977" target="#"><i class="fi-social-youtube" style="font-size: 1.2em;"></i>   La Biolca Umana Misura</a></br>
+								C.F 80027480286  P.iva  03387240280</br>
+								Informativa sulla <a href="https://www.labiolca.it/privacy">Privacy</a> e <a href="https://www.labiolca.it/cookie-policy/">Cookie Policy </a></li>
+
+							<ul>
+						</div>
+					</div>
+				</footer> <!-- end .footer -->
+				<div id="cpr-footer" class="row expanded cpr-footer">
+					<div class="row">
+						<div class="large-12 medium-12 columns">
+							<nav role="navigation">
+							<ul id="menu-footer" class="menu"><li id="menu-item-5575" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5575"><a href="https://www.labiolca.it/">Home</a></li>
+<li id="menu-item-5576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5576"><a href="https://www.labiolca.it/chi-siamo/">Chi Siamo</a></li>
+<li id="menu-item-5577" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5577"><a href="https://www.labiolca.it/5-per-mille/">5 x mille</a></li>
+<li id="menu-item-5578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5578"><a href="https://www.labiolca.it/contatti/">Contatti</a></li>
+<li id="menu-item-6421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6421"><a href="https://www.labiolca.it/sitemap/">Sitemap</a></li>
+</ul>						</nav>
+					</div>
+					<div class="row large-12 medium-12 columns">
+						<p class="source-org copyright">&copy;2023 La Biolca. Vuoi utilizzare alcuni contenuti del nostro sito web? Contattaci su <a href="mailto:info@labiolca.it">info@labiolca.it</a></p>
+					</div>
+				</div>
+					
+				</div> <!-- end #cpr-footer -->
+			</div>  <!-- end .main-content -->
+		</div> <!-- end .off-canvas-wrapper -->
+		<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">Questo sito fa uso di cookie per migliorare l'esperienza di navigazione. Utilizziamo solamente cookie tecnici, di Google Analitycs per le statistiche ed eventualmente cookie impostati dai social di utilizzo comune: facebook, Youtube, ecc. Cliccando "Accetta tutti i cookies", consenti all'uso di tutti i cookies. Tuttavia puoi usare "Cookie Settings" per dare un consenso mirato o rifiutare i cookie con l'apposito pulsante.</div><div class="cli-bar-btn_container"><a role='button' class="medium cli-plugin-button cli-plugin-main-button cli_settings_button" style="margin:0px 5px 0px 0px">Cookie Settings</a><a id="wt-cli-accept-all-btn" role='button' data-cli_action="accept_all" class="wt-cli-element medium cli-plugin-button wt-cli-accept-all-btn cookie_action_close_header cli_action_button">Accetta tutti i cookies</a><a role='button' id="cookie_action_close_header_reject" class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header_reject cli_action_button wt-cli-reject-btn" data-cli_action="reject">Rifiuta tutti i cookies</a></div></div></span></div><div id="cookie-law-info-again" data-nosnippet="true"><span id="cookie_hdr_showagain">Manage consent</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+  <div class="cli-modal-dialog" role="document">
+	<div class="cli-modal-content cli-bar-popup">
+		  <button type="button" class="cli-modal-close" id="cliModalClose">
+			<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+			<span class="wt-cli-sr-only">Chiudi</span>
+		  </button>
+		  <div class="cli-modal-body">
+			<div class="cli-container-fluid cli-tab-container">
+	<div class="cli-row">
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+			<div class="cli-privacy-overview">
+				<h4>Privacy Overview</h4>				<div class="cli-privacy-content">
+					<div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.</div>
+				</div>
+				<a class="cli-privacy-readmore" aria-label="Mostra altro" role="button" data-readmore-text="Mostra altro" data-readless-text="Mostra meno"></a>			</div>
+		</div>
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+												<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
+								Necessary							</a>
+															<div class="wt-cli-necessary-checkbox">
+									<input type="checkbox" class="cli-user-preference-checkbox"  id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked"  />
+									<label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
+								</div>
+								<span class="cli-necessary-caption">Sempre abilitato</span>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="necessary">
+								<div class="wt-cli-cookie-description">
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+<table class="cookielawinfo-row-cat-table cookielawinfo-winter"><thead><tr><th class="cookielawinfo-column-1">Cookie</th><th class="cookielawinfo-column-3">Durata</th><th class="cookielawinfo-column-4">Descrizione</th></tr></thead><tbody><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-analytics</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-functional</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-necessary</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-others</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-performance</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">viewed_cookie_policy</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.</td></tr></tbody></table>								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="functional" data-toggle="cli-toggle-tab">
+								Functional							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-functional" class="cli-user-preference-checkbox"  data-id="checkbox-functional" />
+									<label for="wt-cli-checkbox-functional" class="cli-slider" data-cli-enable="Abilitato" data-cli-disable="Disabilitato"><span class="wt-cli-sr-only">Functional</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="functional">
+								<div class="wt-cli-cookie-description">
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="performance" data-toggle="cli-toggle-tab">
+								Performance							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-performance" class="cli-user-preference-checkbox"  data-id="checkbox-performance" />
+									<label for="wt-cli-checkbox-performance" class="cli-slider" data-cli-enable="Abilitato" data-cli-disable="Disabilitato"><span class="wt-cli-sr-only">Performance</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="performance">
+								<div class="wt-cli-cookie-description">
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="analytics" data-toggle="cli-toggle-tab">
+								Analytics							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-analytics" class="cli-user-preference-checkbox"  data-id="checkbox-analytics" />
+									<label for="wt-cli-checkbox-analytics" class="cli-slider" data-cli-enable="Abilitato" data-cli-disable="Disabilitato"><span class="wt-cli-sr-only">Analytics</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="analytics">
+								<div class="wt-cli-cookie-description">
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="advertisement" data-toggle="cli-toggle-tab">
+								Advertisement							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-advertisement" class="cli-user-preference-checkbox"  data-id="checkbox-advertisement" />
+									<label for="wt-cli-checkbox-advertisement" class="cli-slider" data-cli-enable="Abilitato" data-cli-disable="Disabilitato"><span class="wt-cli-sr-only">Advertisement</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="advertisement">
+								<div class="wt-cli-cookie-description">
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="others" data-toggle="cli-toggle-tab">
+								Others							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-others" class="cli-user-preference-checkbox"  data-id="checkbox-others" />
+									<label for="wt-cli-checkbox-others" class="cli-slider" data-cli-enable="Abilitato" data-cli-disable="Disabilitato"><span class="wt-cli-sr-only">Others</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="others">
+								<div class="wt-cli-cookie-description">
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								</div>
+							</div>
+						</div>
+					</div>
+										</div>
+	</div>
+</div>
+		  </div>
+		  <div class="cli-modal-footer">
+			<div class="wt-cli-element cli-container-fluid cli-tab-container">
+				<div class="cli-row">
+					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
+						
+															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">ACCETTA E SALVA</a>
+													</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+  </div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<!--googleon: all-->	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script type="text/javascript">!function(t,e){"use strict";function n(){if(!a){a=!0;for(var t=0;t<d.length;t++)d[t].fn.call(window,d[t].ctx);d=[]}}function o(){"complete"===document.readyState&&n()}t=t||"docReady",e=e||window;var d=[],a=!1,c=!1;e[t]=function(t,e){return a?void setTimeout(function(){t(e)},1):(d.push({fn:t,ctx:e}),void("complete"===document.readyState||!document.attachEvent&&"interactive"===document.readyState?setTimeout(n,1):c||(document.addEventListener?(document.addEventListener("DOMContentLoaded",n,!1),window.addEventListener("load",n,!1)):(document.attachEvent("onreadystatechange",o),window.attachEvent("onload",n)),c=!0)))}}("wpBruiserDocReady",window);
+			(function(){var wpbrLoader = (function(){var g=document,b=g.createElement('script'),c=g.scripts[0];b.async=1;b.src='https://www.labiolca.it/?gdbc-client=3.1.43-'+(new Date()).getTime();c.parentNode.insertBefore(b,c);});wpBruiserDocReady(wpbrLoader);window.onunload=function(){};window.addEventListener('pageshow',function(event){if(event.persisted){(typeof window.WPBruiserClient==='undefined')?wpbrLoader():window.WPBruiserClient.requestTokens();}},false);})();
+</script><link rel='stylesheet' id='cookie-law-info-table-css' href='https://www.labiolca.it/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-table.css?ver=3.0.9' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.labiolca.it/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.6.0' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Visualizza carrello","cart_url":"https:\/\/www.labiolca.it\/carrello\/","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.labiolca.it/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.6.0' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://www.labiolca.it/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.6.0' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.labiolca.it/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.6.0' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_5aa3fde50ec4c202d0f37fd7cb3355d5","fragment_name":"wc_fragments_5aa3fde50ec4c202d0f37fd7cb3355d5","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.labiolca.it/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.6.0' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' id='ppress-frontend-script-js-extra'>
+/* <![CDATA[ */
+var pp_ajax_form = {"ajaxurl":"https:\/\/www.labiolca.it\/wp-admin\/admin-ajax.php","confirm_delete":"Are you sure?","deleting_text":"Deleting...","deleting_error":"An error occurred. Please try again.","nonce":"f7a337b11f","disable_ajax_form":"false","is_checkout":"0","is_checkout_tax_enabled":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.labiolca.it/wp-content/plugins/wp-user-avatar/assets/js/frontend.min.js?ver=4.10.1' id='ppress-frontend-script-js'></script>
+<script type='text/javascript' src='https://www.labiolca.it/wp-content/themes/JointsWP-master2/vendor/what-input/dist/what-input.min.js?ver=6.2' id='what-input-js'></script>
+<script type='text/javascript' src='https://www.labiolca.it/wp-content/themes/JointsWP-master2/assets/js/foundation.js?ver=6.2.3' id='foundation-js-js'></script>
+<script type='text/javascript' src='https://www.labiolca.it/wp-content/themes/JointsWP-master2/assets/js/scripts.js?ver=6.2' id='site-js-js'></script>
+<script type='text/javascript' src='https://www.labiolca.it/wp-includes/js/comment-reply.min.js?ver=6.2' id='comment-reply-js'></script>
+<script type="text/javascript" id="slb_context">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */</script>
+	</body>
+</html> <!-- end page -->
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 290/383 objects using disk
+Page Caching using disk: enhanced 
+
+Served from: www.labiolca.it @ 2023-06-08 13:46:02 by W3 Total Cache
+-->
