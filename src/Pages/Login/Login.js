@@ -18,20 +18,18 @@ const Login = () => {
         fetch("http://localhost:8000/user/").then((resp) => {
             return resp.json();
         }).then((resp) => {
-            
-                for (let i = 0; i < resp.length; i++) {
-                    if (resp[i].password === state.password
-                        && resp[i].email === state.email) {
-                        { <p>Success</p> }
-                        navigate("/");
-                    } else if (resp[i].email === "" || resp[i].email === null
-                        || resp[i].email === "" || resp[i].email === null) {
-                        console.log("Login fallito")
-                    } else {
-                        console.log("Login fallito")
-                    }
+            for (let i = 0; i < resp.length; i++) {
+                if (resp[i].password === state.password
+                    && resp[i].email === state.email) {
+                    console.log("Success");
+                    navigate("/");
+                } else if (resp[i].email === "" || resp[i].email === null
+                    || resp[i].email === "" || resp[i].email === null) {
+                    console.log("Login fallito")
+                } else {
+                    console.log("Login fallito")
                 }
-            
+            }
         }).catch((error) => {
             toast.error("Login fallito");
         })
@@ -39,39 +37,41 @@ const Login = () => {
     }
 
     return (
-        <div className="login-div">
-            <h1>Brainbooster Courses</h1>
-            <h3>Log in</h3>
-            <form className="login-form" onSubmit={handleSubmit}>
-                <label htmlFor="email"><strong>email</strong></label>
-                <input
-                    type="text"
-                    defaultValue={state.email}
-                    onChange={(event) =>
-                        setState((prevState) => ({
-                            ...prevState,
-                            email: event.target.value,
-                        }))}
-                    required
-                />
-                <label htmlFor="password"><strong>password</strong></label>
-                <input
-                    type="password"
-                    defaultValue={state.password}
-                    onChange={(event) =>
-                        setState((prevState) => ({
-                            ...prevState,
-                            password: event.target.value
-                        }))}
-                    required />
-                <button type="submit"><strong>Log in</strong></button>
-            </form>
-            {/* {handleSubmit && <p>Login fallito. Riprova o registrati</p>} */}
-            <p className="noAccount">
-                Non hai ancora un account? Registrati
-                <Link to="/register1"><strong> qui.</strong></Link>
-            </p>
+        <div className="App-content">
+            <div className="login-div">
+                <h1>Brainbooster Courses</h1>
+                <h3>Log in</h3>
+                <form className="login-form" onSubmit={handleSubmit}>
+                    <label htmlFor="email"><strong>email</strong></label>
+                    <input
+                        type="text"
+                        defaultValue={state.email}
+                        onChange={(event) =>
+                            setState((prevState) => ({
+                                ...prevState,
+                                email: event.target.value,
+                            }))}
+                        required
+                    />
+                    <label htmlFor="password"><strong>password</strong></label>
+                    <input
+                        type="password"
+                        defaultValue={state.password}
+                        onChange={(event) =>
+                            setState((prevState) => ({
+                                ...prevState,
+                                password: event.target.value
+                            }))}
+                        required />
+                    <button type="submit"><strong>Log in</strong></button>
+                </form>
+                {/* {handleSubmit && <p>Login fallito. Riprova o registrati</p>} */}
+                <p className="noAccount">
+                    Non hai ancora un account? Registrati
+                    <Link to="/register1"><strong> qui.</strong></Link>
+                </p>
 
+            </div>
         </div>
     );
 }

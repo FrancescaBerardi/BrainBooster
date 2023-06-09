@@ -16,8 +16,7 @@ function App() {
     <BrowserRouter>
       
         <div className="App">
-          <Header />
-          <div className="App-content">
+          
             <Routes>
               <Route path='/' element={<Home />} />
               <Route path='/login' element={<Login />} />
@@ -25,8 +24,7 @@ function App() {
               <Route path='/register2' element={<Register2 />} />
               <Route path='/cart' element={<Cart />} />
             </Routes>
-          </div >
-          <Footer />
+          
         </div>
       
     </BrowserRouter>
