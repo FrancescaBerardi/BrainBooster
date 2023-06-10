@@ -33,7 +33,7 @@ const ProductDetails = () => {
   }, [userId]);
 
   const addProductToCart = () => {
-    const newProduct = [productId, 1]; 
+    const newProduct = [productId, 1];
 
     const updateUserCart = async () => {
       try {
@@ -47,7 +47,7 @@ const ProductDetails = () => {
 
         if (response.ok) {
           console.log('Prodotto inserito nel carrello');
-          navigate('/cart'); 
+          navigate('/cart');
         } else {
           console.error('Errore durante l\'inserimento del prodotto nel carrello:', response.statusText);
         }
@@ -60,10 +60,19 @@ const ProductDetails = () => {
   };
 
   const [price, setPrice] = useState(product.priceNoIva);
+  const [count, setCount] = useState(0);
+  const [btnText, setBtnText] = useState("Calcola prezzo con IVA");
 
   const addIva = () => {
-    let diff = price * 22 / 100;
-    setPrice(price+diff)
+    if (count % 2 === 1) {
+      setPrice(product.priceNoIva);
+      setBtnText("Calcola prezzo con IVA");
+    } else if (count % 2 === 0) {
+      let diff = price * 22 / 100;
+      setPrice(price + diff);
+      setBtnText("Calcola prezzo senza IVA");
+    }
+    setCount(count + 1);
   }
 
   return (
@@ -74,10 +83,9 @@ const ProductDetails = () => {
             <li>
               <img className='img-product' src={product.image} alt="eng" />
             </li>
-            <li><strong>Prezzo: </strong>  {product.priceNoIva} €</li>
+            <li><strong>Prezzo: </strong>  {price} €</li>
             <li><strong>iva: </strong> 22%</li>
-            <li><button onClick={addIva}>calcola prezzo con iva</button></li>
-            <li>{price}</li>
+            <li><button onClick={addIva}>{btnText}</button></li>
           </ul>
         </div>
         <div className="productDetails2">
