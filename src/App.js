@@ -6,6 +6,9 @@ import Register1 from './Pages/Login/Register1';
 import Register2 from './Pages/Login/Register2';
 import Cart from './Cart';
 import ProductDetails from './Components/ProductDetails';
+import SviluppoIT from './SviluppoIT';
+import Design from './Design';
+import Lingue from './Lingue';
 
 function App() {
 
@@ -21,6 +24,9 @@ function App() {
               <Route path='/register1' element={<Register1 />} />
               <Route path='/register2' element={<Register2 />} />
               <Route path='/product-details' element={<ProductDetails />} />
+              <Route path='/sviluppo' element={<SviluppoIT />} />
+              <Route path='/design' element={<Design />} />
+              <Route path='/lingue' element={<Lingue />} />
               <Route path='/cart' element={<Cart />} />
             </Routes>
           

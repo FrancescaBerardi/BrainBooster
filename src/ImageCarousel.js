@@ -6,12 +6,16 @@ const ImageCarousel = () => {
 
     const imgs = [
         {
-            title: "java",
-            image: "images/CorsoJava.png"
+            title: "problem solving",
+            image: "images/problem-solving-course.jpeg"
         },
         {
-            title: "java",
-            image: "images/CorsoJava.png"
+            title: "spanish",
+            image: "images/Spanish-Course.png"
+        },
+        {
+            title: "creating writing",
+            image: "images/creating-writing.png"
         }
     ]
 

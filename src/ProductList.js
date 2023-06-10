@@ -20,7 +20,7 @@ const ProductList = () => {
     }, []);
 
     useEffect(() => {
-        console.log(products);
+        
     }, [products]);
 
     return (

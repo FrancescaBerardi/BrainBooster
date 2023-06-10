@@ -46,9 +46,9 @@ const Navbar = () => {
             <div className="nav-element3">
                 <ul className="list2">
 
-                    <li><strong>Sviluppo IT</strong></li>
-                    <li><strong>Design</strong></li>
-                    <li><strong>Lingue</strong></li>
+                    <li><strong> <Link to="/sviluppo">Sviluppo IT</Link> </strong></li>
+                    <li><strong><Link to="/design">Design</Link></strong></li>
+                    <li><strong><Link to="/lingue">Lingue</Link></strong></li>
                     <li><strong>Soft Skills</strong></li>
 
                 </ul>

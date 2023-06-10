@@ -11,7 +11,7 @@ const Home = () => {
     return (
         <Layout>
             <div className="home">
-                <h1>I nostri corsi, {userId}</h1>
+                <h1>I nostri corsi</h1>
                 <ImageCarousel />
                 <ProductList />
             </div>

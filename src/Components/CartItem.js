@@ -34,21 +34,15 @@ const CartItem = ({product}) => {
         //console.log(productItem.title);
     }, [productItem]);
 
-    const addItem = ()=>{
-
-    }
-    const removeItem = ()=>{
-        
-    }
 
   return (
     <div className='cartItemContainer'>
         <ul className='cartList'>
-            <li><img src={productItem.image} alt="wb" /></li>
+            <li><img src={productItem.image} alt="course" /></li>
             <li><h2>{productItem.productName}</h2> </li>
-            <li><button onClick={addItem}>rimuovi</button></li>
+            <li><button>rimuovi</button></li>
             <li>  Quantità: {productNumber}</li>
-            <li><button onClick={removeItem}>aggiungi</button></li>
+            <li><button>aggiungi</button></li>
         </ul>
     </div>
   )

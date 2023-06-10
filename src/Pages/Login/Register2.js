@@ -1,7 +1,10 @@
 import { Link, useLocation, useNavigate } from "react-router-dom";
-import { useState } from "react";
+import { useContext, useState } from "react";
+import { AuthContext } from "../../Components/Login/AuthContext";
 
 const Register2 = () => {
+
+    const {userId, login, logout} = useContext(AuthContext);
 
     const location = useLocation();
     const user = location.state;

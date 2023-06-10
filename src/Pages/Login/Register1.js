@@ -20,16 +20,13 @@ const Register1 = () => {
     const navigate = useNavigate();
 
     const handleClick = () => {
-        if(state.name !== "" || state.name !== null || state.email !== ""
-        || state.email !== null || state.lastname !== "" || state.lastname !== null 
-        || state.password !== "" || state.password !== null){
-            if(state.password === passVerify) {
-                navigate("/register2", {
-                    state: state
-                });
-            } else {
-                invalidPass = "Le due password non corrispondono";
-            }
+        if (state.name !== "" || state.name !== null || state.email !== ""
+            || state.email !== null || state.lastname !== "" || state.lastname !== null
+            || state.password !== "" || state.password !== null) {
+
+            navigate("/register2", {
+                state: state
+            });
         } else {
             console.log("compila tutti i campi")
         }

@@ -12,7 +12,7 @@ const Cart = () => {
     const [cartSizeLocal, setCartSizeLocal] = useState(0);
 
     const getData = () => {
-        fetch("http://localhost:8000/user/" + "1")
+        fetch(`http://localhost:8000/user/${userId}`)
             .then((response) => response.json())
             .then((data) => {
                 console.log(data.cart);

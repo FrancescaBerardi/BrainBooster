@@ -69,7 +69,6 @@ const Login = () => {
                         required />
                     <button type="submit"><strong>Log in</strong></button>
                 </form>
-                {/* {handleSubmit && <p>Login fallito. Riprova o registrati</p>} */}
                 <p className="noAccount">
                     Non hai ancora un account? Registrati
                     <Link to="/register1"><strong> qui.</strong></Link>

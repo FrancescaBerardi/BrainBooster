@@ -290,3 +290,13 @@ button {
   border: 1px solid black;
   margin-top: 10px;
 }
+
+.categoryProductContainer {
+  margin-top: 30px;
+  color: #003f7d;
+}
+
+.categoryProduct {
+  display: flex;
+  margin-bottom: 30px;
+}
