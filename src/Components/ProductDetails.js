@@ -59,6 +59,13 @@ const ProductDetails = () => {
     updateUserCart();
   };
 
+  const [price, setPrice] = useState(product.priceNoIva);
+
+  const addIva = () => {
+    let diff = price * 22 / 100;
+    setPrice(price+diff)
+  }
+
   return (
     <Layout>
       <div className="productDetailsContainer">
@@ -69,7 +76,8 @@ const ProductDetails = () => {
             </li>
             <li><strong>Prezzo: </strong>  {product.priceNoIva} €</li>
             <li><strong>iva: </strong> 22%</li>
-            <li><button>calcola prezzo con iva</button></li>
+            <li><button onClick={addIva}>calcola prezzo con iva</button></li>
+            <li>{price}</li>
           </ul>
         </div>
         <div className="productDetails2">

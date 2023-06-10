@@ -40,6 +40,8 @@ const CartItem = ({product}) => {
         <ul className='cartList'>
             <li><img src={productItem.image} alt="course" /></li>
             <li><h2>{productItem.productName}</h2> </li>
+        </ul>
+        <ul  className='cartList'>
             <li><button>rimuovi</button></li>
             <li>  Quantità: {productNumber}</li>
             <li><button>aggiungi</button></li>

@@ -49,7 +49,7 @@ const Navbar = () => {
                     <li><strong> <Link to="/sviluppo">Sviluppo IT</Link> </strong></li>
                     <li><strong><Link to="/design">Design</Link></strong></li>
                     <li><strong><Link to="/lingue">Lingue</Link></strong></li>
-                    <li><strong>Soft Skills</strong></li>
+                    <li><strong><Link to="/soft-skills">Soft Skills</Link></strong></li>
 
                 </ul>
             </div>

@@ -9,6 +9,7 @@ import ProductDetails from './Components/ProductDetails';
 import SviluppoIT from './SviluppoIT';
 import Design from './Design';
 import Lingue from './Lingue';
+import SoftSkills from './SoftSkills';
 
 function App() {
 
@@ -27,6 +28,7 @@ function App() {
               <Route path='/sviluppo' element={<SviluppoIT />} />
               <Route path='/design' element={<Design />} />
               <Route path='/lingue' element={<Lingue />} />
+              <Route path='/soft-skills' element={<SoftSkills />} />
               <Route path='/cart' element={<Cart />} />
             </Routes>
           

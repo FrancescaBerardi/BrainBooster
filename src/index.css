@@ -204,6 +204,7 @@ button {
   display: flex;
   overflow-x: hidden;
   scroll-behavior: smooth;
+  cursor: pointer;
 }
 
 .next-btn {
@@ -270,25 +271,24 @@ button {
 }
 
 .img-product{
-  width: 300px;
+  width: 340px;
   height: 200px;
 }
 
 .cartItemContainer img{
-  width: 150px;
+  width: 180px;
   height: 100px;
 }
 
 .cartItemContainer ul {
   list-style-type: none;
-  display: flex;
-  justify-content: space-between;
 }
 
 .cartItemContainer {
   padding: 10px;
   border: 1px solid black;
-  margin-top: 10px;
+  display: flex;
+  justify-content: space-around;
 }
 
 .categoryProductContainer {
