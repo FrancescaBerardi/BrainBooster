@@ -9,27 +9,32 @@ const Register1 = () => {
         name: "",
         lastname: "",
         email: "",
-        password: ""
+        password: "",
+        passVerify: ""
     }
 
     const [state, setState] = useState(initialState);
 
-    const [passVerify, setPassVerify] = useState();
-    let invalidPass = "";
-
     const navigate = useNavigate();
 
-    const handleClick = () => {
-        if (state.name !== "" || state.name !== null || state.email !== ""
-            || state.email !== null || state.lastname !== "" || state.lastname !== null
-            || state.password !== "" || state.password !== null) {
+    const [verify, setVerify] = useState("");
+    const [compile, setCompile] = useState("");
 
-            navigate("/register2", {
+    const handleClick = () => {
+        if(state.passVerify === state.password){
+            if (state.name !== "" && state.name !== null && state.email !== ""
+            && state.email !== null && state.lastname !== "" && state.lastname !== null
+            && state.password !== "" && state.password !== null) {
+                navigate("/register2", {
                 state: state
             });
         } else {
-            console.log("compila tutti i campi")
+            setCompile("Compila tutti i campi")
         }
+        } else {
+            setVerify("Le due password non corrispondono")
+        }
+        
     }
 
     return (
@@ -86,12 +91,16 @@ const Register1 = () => {
                     <input
                         placeholder="password"
                         type="password"
-                        value={passVerify}
-                        onChange={(e) => setPassVerify(e.target.value)}
+                        value={state.passVerify}
+                        onChange={(event) => setState((prevState) => ({
+                            ...prevState,
+                            passVerify: event.target.value
+                        }))}
                         required />
                     <button onClick={handleClick}><strong>Continua</strong></button>
                 </form>
-                <p>{invalidPass}</p>
+                <p><strong>{verify}</strong> </p>
+                <p><strong>{compile}</strong> </p>
                 <p className="haveAccount">
                     Hai già un account? Clicca
                     <Link to="/login"><strong> qui </strong></Link>

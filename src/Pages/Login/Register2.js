@@ -4,7 +4,7 @@ import { AuthContext } from "../../Components/Login/AuthContext";
 
 const Register2 = () => {
 
-    const {userId, login, logout} = useContext(AuthContext);
+    const { userId, login, logout } = useContext(AuthContext);
 
     const location = useLocation();
     const user = location.state;
@@ -27,7 +27,8 @@ const Register2 = () => {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        fetch("http://localhost:8000/user/", {
+        if(validate){
+            fetch("http://localhost:8000/user/", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify(state)
@@ -36,7 +37,20 @@ const Register2 = () => {
         }).then(() => {
             navigate("/");
         })
+        }
+    }
 
+    const [compile, setCompile] = useState("");
+
+    const validate = () => {
+        debugger
+        if (state.birthday !== null && state.birthday !== ""
+            && state.country !== null && state.country !== ""
+            && state.email !== null && state.email !== "") {
+            setCompile("")
+        } else {
+            setCompile("Compila tutti i campi");
+        }
     }
 
     return (
@@ -112,6 +126,7 @@ const Register2 = () => {
 
                     <button type="submit"><strong>Registrati</strong></button>
                 </form>
+                <p>{compile}</p>
                 <p><Link to="/register1">Indietro</Link></p>
             </div>
         </div>

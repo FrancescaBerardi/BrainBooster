@@ -15,6 +15,8 @@ const Login = () => {
     }
 
     const [state, setState] = useState(initialState);
+    const [invalid, setInvalid] = useState("");
+
 
     const handleSubmit = (e) => {
         e.preventDefault();
@@ -29,9 +31,9 @@ const Login = () => {
                     navigate("/");
                 } else if (resp[i].email === "" || resp[i].email === null
                     || resp[i].email === "" || resp[i].email === null) {
-                    console.log("Login fallito")
+                    setInvalid("Credenziali non valide")
                 } else {
-                    console.log("Login fallito")
+                    setInvalid("Credenziali non valide")
                 }
             }
         }).catch((error) => {
@@ -69,6 +71,7 @@ const Login = () => {
                         required />
                     <button type="submit"><strong>Log in</strong></button>
                 </form>
+                <p>{invalid}</p>
                 <p className="noAccount">
                     Non hai ancora un account? Registrati
                     <Link to="/register1"><strong> qui.</strong></Link>

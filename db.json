@@ -72,6 +72,32 @@
       "gender": "",
       "cart": [],
       "id": 3
+    },
+    {
+      "name": "gt",
+      "lastname": "gt",
+      "email": "gt",
+      "password": "gt",
+      "birthday": "2023-05-29",
+      "street": "gt",
+      "country": "hy",
+      "postalCode": "gt",
+      "gender": "no",
+      "cart": [],
+      "id": 4
+    },
+    {
+      "name": "ft",
+      "lastname": "gy",
+      "email": "ju",
+      "password": "ju",
+      "birthday": "2023-05-30",
+      "street": "gt",
+      "country": "gt",
+      "postalCode": "hy",
+      "gender": "yes",
+      "cart": [],
+      "id": 5
     }
   ],
   "products": [
