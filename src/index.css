@@ -97,9 +97,25 @@ button {
   height: 23px;
 }
 
+.logout-icon {
+  width: 22px;
+  height: 22px;
+  margin-left: 0;
+  padding-right: 10px;
+}
+
+.logout-li {
+  cursor: pointer;
+}
+
 .search-icon {
   width: 20px;
   height: 20px;
+}
+
+.user-icon {
+  width: 23px;
+  height: 23px;
 }
 
 .cart-total {
@@ -134,6 +150,7 @@ button {
 .nav-element {
   display: flex;
 }
+
 
 .footer-container {
   padding: 30px;

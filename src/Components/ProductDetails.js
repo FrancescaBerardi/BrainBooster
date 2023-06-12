@@ -16,7 +16,6 @@ const ProductDetails = () => {
   useEffect(() => {
     const fetchCart = async () => {
       try {
-        debugger
         const response = await fetch(`http://localhost:8000/user/${userId}`);
         if (response.ok) {
           const userData = await response.json();
@@ -32,31 +31,44 @@ const ProductDetails = () => {
     fetchCart();
   }, [userId]);
 
+  const [addMessage, setAddMessage] = useState("")
+
   const addProductToCart = () => {
-    const newProduct = [productId, 1];
-
-    const updateUserCart = async () => {
-      try {
-        const response = await fetch(`http://localhost:8000/user/${userId}`, {
-          method: 'PATCH',
-          headers: {
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify({ cart: [...cart, newProduct] }),
-        });
-
-        if (response.ok) {
-          console.log('Prodotto inserito nel carrello');
-          navigate('/cart');
+    const existingProduct = cart.find(item => item[0] === productId);
+    if(existingProduct){
+      const updatedCart = cart.map(item => {
+        if(item[0] === productId) {
+          return [item[0], item[1]+1];
         } else {
-          console.error('Errore durante l\'inserimento del prodotto nel carrello:', response.statusText);
+          return item;
         }
-      } catch (error) {
-        console.error('Errore durante l\'inserimento del prodotto nel carrello:', error);
-      }
-    };
+      });
+      updateCart(updatedCart);
+    } else {
+      const newProduct = [productId, 1];
+      updateCart([...cart, newProduct]);
+    }
+    
+  };
 
-    updateUserCart();
+  const updateCart = async(updatedCart) => {
+    try {
+      const response = await fetch(`http://localhost:8000/user/${userId}`, {
+        method: 'PATCH',
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({cart:updatedCart})
+      });
+      if(response.ok){
+        console.log("prodotto inserito nel carrello");
+        navigate("/cart");
+      } else {
+        console.error("Errore durante l'inserimento del prodotto nel carrello", response.statusText);
+      }
+    } catch (error) {
+      console.error("Errore durante l'inserimento del prodotto nel carrello", error);
+    }
   };
 
   const [price, setPrice] = useState(product.priceNoIva);
@@ -104,7 +116,9 @@ const ProductDetails = () => {
             <li>
               <button onClick={addProductToCart}>Inserisci prodotto nel carrello</button>
             </li>
+            <p>{addMessage}</p>
           </ul>
+          
         </div>
       </div>
     </Layout>

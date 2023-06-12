@@ -1,15 +1,24 @@
-import { Link, useLocation } from "react-router-dom";
+import { Link, useLocation, useNavigate } from "react-router-dom";
 import { FiShoppingCart } from "react-icons/fi";
 import { BiHomeAlt2 } from "react-icons/bi";
 import { BsSearch } from "react-icons/bs";
+import { RiLogoutCircleRLine } from "react-icons/ri";
+import { FaUserCircle } from "react-icons/fa";
 import { useContext, useEffect, useState } from "react";
 import { AuthContext } from "../Login/AuthContext";
 
 const Navbar = () => {
 
-    const {getCartSize} = useContext(AuthContext);
+    const {getCartSize, logout, userId} = useContext(AuthContext);
     
     const [cartSizeLocal, setCartSizeLocal] = useState(getCartSize);
+
+    const navigate = useNavigate();
+
+    const handleLogout = () => {
+        logout();
+        navigate("/login");
+    }
 
     useEffect(()=>{
         setCartSizeLocal(getCartSize);
@@ -33,11 +42,12 @@ const Navbar = () => {
                     <ul className="list1">
                         
                         <Link to={"/"}><li><strong><BiHomeAlt2 className="cart-icon" /></strong></li></Link>
-                        
                         <li><strong><BsSearch className="search-icon" /></strong></li>
-                        <Link to={"/cart"}><li><FiShoppingCart className="cart-icon" />
+                        <Link to={"/cart"}><li className="cart-li"><FiShoppingCart className="cart-icon" />
                             <span className="cart-total"> {cartSizeLocal} </span>
                         </li></Link>
+                        <li><FaUserCircle className="user-icon"/></li>
+                        <li className="logout-li" onClick={handleLogout}><RiLogoutCircleRLine className="logout-icon" /></li>
                         
                     </ul>
                 </div>

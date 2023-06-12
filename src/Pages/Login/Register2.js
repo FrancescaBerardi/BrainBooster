@@ -4,7 +4,7 @@ import { AuthContext } from "../../Components/Login/AuthContext";
 
 const Register2 = () => {
 
-    const { userId, login, logout } = useContext(AuthContext);
+    const { login, logout } = useContext(AuthContext);
 
     const location = useLocation();
     const user = location.state;
@@ -20,32 +20,32 @@ const Register2 = () => {
         country: "",
         postalCode: "",
         gender: "",
-        cart: []
+        cart: [],
+        id: ""
     }
 
     const [state, setState] = useState(initialState);
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        if(validate){
-            fetch("http://localhost:8000/user/", {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify(state)
-        }).then(() => {
-            console.log("new user added");
-            
-                }).then(() => {
-            navigate("/");
-            
-        })
+        if (validate) {
+            const resp = fetch("http://localhost:8000/user/", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(state)
+            }).then((resp) => resp.json()
+            ).then((data) => {
+                login(data.id);
+                console.log("new user added with id: ", data.id);
+            }).then(() => {
+                navigate("/");
+            })
         }
     }
 
     const [compile, setCompile] = useState("");
 
     const validate = () => {
-        debugger
         if (state.birthday !== null && state.birthday !== ""
             && state.country !== null && state.country !== ""
             && state.email !== null && state.email !== "") {
