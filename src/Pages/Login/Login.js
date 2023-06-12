@@ -1,6 +1,5 @@
 import { Link, useNavigate } from "react-router-dom";
 import { useState, useContext, useEffect } from "react";
-import { toast } from "react-toastify";
 import { AuthContext } from "../../Components/Login/AuthContext";
 
 const Login = () => {
@@ -37,7 +36,7 @@ const Login = () => {
                 }
             }
         }).catch((error) => {
-            toast.error("Login fallito");
+            setInvalid("Errore. Riprova ad inserire i tuoi dati");
         })
 
     }

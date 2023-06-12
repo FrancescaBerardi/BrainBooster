@@ -282,6 +282,23 @@ button {
 
 .cartItemContainer ul {
   list-style-type: none;
+  padding-left: 0;
+}
+
+.cartItemContainer button {
+  width: 20px;
+  font-size: 20px;
+  padding-right: 28px;
+}
+
+.cartList2 {
+  display: flex;
+  align-items: center;
+  color: #003f7d;
+}
+.cartList2 li {
+  margin-right: 10px;
+  margin-left: 10px;
 }
 
 .cartItemContainer {

@@ -34,8 +34,10 @@ const Register2 = () => {
             body: JSON.stringify(state)
         }).then(() => {
             console.log("new user added");
-        }).then(() => {
+            
+                }).then(() => {
             navigate("/");
+            
         })
         }
     }

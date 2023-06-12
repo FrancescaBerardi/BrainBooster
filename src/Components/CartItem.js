@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react'
 
-const CartItem = ({product}) => {
+const CartItem = ({ product }) => {
+
+    debugger
 
     const initialState = {
         id: product[0],
@@ -9,8 +11,8 @@ const CartItem = ({product}) => {
         category: "",
         description: "",
         priceNoIva: 0,
-        image : ""
-      };
+        image: ""
+    };
 
     const [productItem, setProductItem] = useState(initialState);
 
@@ -34,20 +36,27 @@ const CartItem = ({product}) => {
         //console.log(productItem.title);
     }, [productItem]);
 
+    const addItem = () => {
+        setProductNumber(productNumber+1);
+    }
 
-  return (
-    <div className='cartItemContainer'>
-        <ul className='cartList'>
-            <li><img src={productItem.image} alt="course" /></li>
-            <li><h2>{productItem.productName}</h2> </li>
-        </ul>
-        <ul  className='cartList'>
-            <li><button>rimuovi</button></li>
-            <li>  Quantità: {productNumber}</li>
-            <li><button>aggiungi</button></li>
-        </ul>
-    </div>
-  )
+
+    return (
+        <div className='cartItemContainer'>
+            <ul className='cartList1'>
+                <li><h2>{productItem.productName}</h2> </li>
+                <li><img src={productItem.image} alt="course" /></li>
+            </ul>
+            <ul className='cartList2'>
+                <li><button>-</button></li>
+                <li><h1>{productNumber}</h1></li>
+                <li><button onClick={addItem}>+</button></li>
+            </ul>
+            <ul className='cartList2'>
+                <li><h1>{productItem.priceNoIva} €</h1> </li>
+            </ul>
+        </div>
+    )
 }
 
 export default CartItem
