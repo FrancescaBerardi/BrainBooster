@@ -14,11 +14,7 @@
       "cart": [
         [
           5,
-          4
-        ],
-        [
-          8,
-          1
+          7
         ]
       ]
     },
@@ -214,9 +210,26 @@
         [
           5,
           7
+        ],
+        [
+          11,
+          4
         ]
       ],
       "id": 14
+    },
+    {
+      "name": "f",
+      "lastname": "f",
+      "email": "f",
+      "password": "f",
+      "birthday": "2023-05-30",
+      "street": "f",
+      "country": "f",
+      "postalCode": "f",
+      "gender": "yes",
+      "cart": [],
+      "id": 15
     }
   ],
   "products": [

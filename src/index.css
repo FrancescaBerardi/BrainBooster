@@ -118,6 +118,22 @@ button {
   height: 23px;
 }
 
+.login-li button {
+  font-size: medium;
+  width: 90px;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #ffea9f;
+}
+
+.register-li button {
+  font-size: medium;
+  width: 115px;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #ffea9f;
+}
+
 .cart-total {
   color: aliceblue;
 }
@@ -144,7 +160,7 @@ button {
 .navbar ul li {
   list-style-type: none;
   padding-left: 20px;
-  padding-right:20px;
+  padding-right:10px;
 }
 
 .nav-element {
